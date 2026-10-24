@@ -1,0 +1,2873 @@
+fileFormatVersion: 2
+guid: c5515b8a47642ef4d8807ca694e101e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7227764388539630705
+    second: piso_inicio_juego_despejado_0
+  - first:
+      213: -2395374844340044819
+    second: piso_inicio_juego_despejado_1
+  - first:
+      213: -7356262131002521015
+    second: piso_inicio_juego_despejado_2
+  - first:
+      213: -4790407715330501424
+    second: piso_inicio_juego_despejado_3
+  - first:
+      213: 6764177374430638470
+    second: piso_inicio_juego_despejado_4
+  - first:
+      213: 8263348193642366136
+    second: piso_inicio_juego_despejado_5
+  - first:
+      213: -2600977925194472380
+    second: piso_inicio_juego_despejado_6
+  - first:
+      213: -8208587215107404012
+    second: piso_inicio_juego_despejado_7
+  - first:
+      213: -8270714068936839687
+    second: piso_inicio_juego_despejado_8
+  - first:
+      213: -2673123193649569333
+    second: piso_inicio_juego_despejado_9
+  - first:
+      213: 7712802835953937229
+    second: piso_inicio_juego_despejado_10
+  - first:
+      213: 1713073543020016338
+    second: piso_inicio_juego_despejado_11
+  - first:
+      213: 785186480072251323
+    second: piso_inicio_juego_despejado_12
+  - first:
+      213: 2410984736690304584
+    second: piso_inicio_juego_despejado_13
+  - first:
+      213: 6635827791887753086
+    second: piso_inicio_juego_despejado_14
+  - first:
+      213: 7135481147765108011
+    second: piso_inicio_juego_despejado_15
+  - first:
+      213: -7298932934611758456
+    second: piso_inicio_juego_despejado_16
+  - first:
+      213: 5433647000460918998
+    second: piso_inicio_juego_despejado_17
+  - first:
+      213: -9086061379708351635
+    second: piso_inicio_juego_despejado_18
+  - first:
+      213: -8267963500523192743
+    second: piso_inicio_juego_despejado_19
+  - first:
+      213: 4305338609003481502
+    second: piso_inicio_juego_despejado_20
+  - first:
+      213: 1751060805158073557
+    second: piso_inicio_juego_despejado_21
+  - first:
+      213: -4734242268520768519
+    second: piso_inicio_juego_despejado_22
+  - first:
+      213: -6021103681082196333
+    second: piso_inicio_juego_despejado_23
+  - first:
+      213: 7685635565796475218
+    second: piso_inicio_juego_despejado_24
+  - first:
+      213: 6053706043805942938
+    second: piso_inicio_juego_despejado_25
+  - first:
+      213: 7029007886421301053
+    second: piso_inicio_juego_despejado_26
+  - first:
+      213: 1197695033949263755
+    second: piso_inicio_juego_despejado_27
+  - first:
+      213: 1680056394254460567
+    second: piso_inicio_juego_despejado_28
+  - first:
+      213: -2760564998719168357
+    second: piso_inicio_juego_despejado_29
+  - first:
+      213: 7507305972654434156
+    second: piso_inicio_juego_despejado_30
+  - first:
+      213: 3977960513337421279
+    second: piso_inicio_juego_despejado_31
+  - first:
+      213: 4151079586444898371
+    second: piso_inicio_juego_despejado_32
+  - first:
+      213: -8116380265699783434
+    second: piso_inicio_juego_despejado_33
+  - first:
+      213: 8745759384683416139
+    second: piso_inicio_juego_despejado_34
+  - first:
+      213: 496923532817920021
+    second: piso_inicio_juego_despejado_35
+  - first:
+      213: 3910278122513809667
+    second: piso_inicio_juego_despejado_36
+  - first:
+      213: 4301776451271341958
+    second: piso_inicio_juego_despejado_37
+  - first:
+      213: -2615241931149882841
+    second: piso_inicio_juego_despejado_38
+  - first:
+      213: -6060534019238932758
+    second: piso_inicio_juego_despejado_39
+  - first:
+      213: 2016372869463830897
+    second: piso_inicio_juego_despejado_40
+  - first:
+      213: 4044184679912078603
+    second: piso_inicio_juego_despejado_41
+  - first:
+      213: 4043356553249093456
+    second: piso_inicio_juego_despejado_42
+  - first:
+      213: 1265393633679413297
+    second: piso_inicio_juego_despejado_43
+  - first:
+      213: -6985201808380470453
+    second: piso_inicio_juego_despejado_44
+  - first:
+      213: -1310560480280725326
+    second: piso_inicio_juego_despejado_45
+  - first:
+      213: 5378964131299208574
+    second: piso_inicio_juego_despejado_46
+  - first:
+      213: -4064868307959757217
+    second: piso_inicio_juego_despejado_47
+  - first:
+      213: -3901507719266153630
+    second: piso_inicio_juego_despejado_48
+  - first:
+      213: 2918803659570048048
+    second: piso_inicio_juego_despejado_49
+  - first:
+      213: -7647061393176993456
+    second: piso_inicio_juego_despejado_50
+  - first:
+      213: -2135159663388497126
+    second: piso_inicio_juego_despejado_51
+  - first:
+      213: -3492359021275764665
+    second: piso_inicio_juego_despejado_52
+  - first:
+      213: 6296804881754995311
+    second: piso_inicio_juego_despejado_53
+  - first:
+      213: 516237963966744939
+    second: piso_inicio_juego_despejado_54
+  - first:
+      213: 1531640294428378435
+    second: piso_inicio_juego_despejado_55
+  - first:
+      213: 2897556253739072929
+    second: piso_inicio_juego_despejado_56
+  - first:
+      213: 2468519060652488284
+    second: piso_inicio_juego_despejado_57
+  - first:
+      213: -9107245926637430171
+    second: piso_inicio_juego_despejado_58
+  - first:
+      213: -5489777318739796908
+    second: piso_inicio_juego_despejado_59
+  - first:
+      213: -2017994644216715178
+    second: piso_inicio_juego_despejado_60
+  - first:
+      213: -7109315348788369590
+    second: piso_inicio_juego_despejado_61
+  - first:
+      213: -7753149968226635222
+    second: piso_inicio_juego_despejado_62
+  - first:
+      213: -2479097656313300648
+    second: piso_inicio_juego_despejado_63
+  - first:
+      213: -288331622062598861
+    second: piso_inicio_juego_despejado_64
+  - first:
+      213: -5976904420234081048
+    second: piso_inicio_juego_despejado_65
+  - first:
+      213: 8100645488410187397
+    second: piso_inicio_juego_despejado_66
+  - first:
+      213: -9074912795065916281
+    second: piso_inicio_juego_despejado_67
+  - first:
+      213: 6517822914365835975
+    second: piso_inicio_juego_despejado_68
+  - first:
+      213: 6126909366648145969
+    second: piso_inicio_juego_despejado_69
+  - first:
+      213: 6309694480380791000
+    second: piso_inicio_juego_despejado_70
+  - first:
+      213: -564080051123671366
+    second: piso_inicio_juego_despejado_71
+  - first:
+      213: -255991470645668282
+    second: piso_inicio_juego_despejado_72
+  - first:
+      213: -5030726289773119830
+    second: piso_inicio_juego_despejado_73
+  - first:
+      213: -2562939029381262926
+    second: piso_inicio_juego_despejado_74
+  - first:
+      213: 4887259569925350192
+    second: piso_inicio_juego_despejado_75
+  - first:
+      213: 6053552409014437591
+    second: piso_inicio_juego_despejado_76
+  - first:
+      213: -989428926053663601
+    second: piso_inicio_juego_despejado_77
+  - first:
+      213: -7738894423849050691
+    second: piso_inicio_juego_despejado_78
+  - first:
+      213: -451881590650011335
+    second: piso_inicio_juego_despejado_79
+  - first:
+      213: -3591084007556970662
+    second: piso_inicio_juego_despejado_80
+  - first:
+      213: -8787594551958697912
+    second: piso_inicio_juego_despejado_81
+  - first:
+      213: 6403483900343993056
+    second: piso_inicio_juego_despejado_82
+  - first:
+      213: -3646078282433963483
+    second: piso_inicio_juego_despejado_83
+  - first:
+      213: -6022159422976911154
+    second: piso_inicio_juego_despejado_84
+  - first:
+      213: -9163980475906502940
+    second: piso_inicio_juego_despejado_85
+  - first:
+      213: -2283890383178424353
+    second: piso_inicio_juego_despejado_86
+  - first:
+      213: -9198613378291488596
+    second: piso_inicio_juego_despejado_87
+  - first:
+      213: 9145166788496595550
+    second: piso_inicio_juego_despejado_88
+  - first:
+      213: -2346313351161040200
+    second: piso_inicio_juego_despejado_89
+  - first:
+      213: -6728620047304061492
+    second: piso_inicio_juego_despejado_90
+  - first:
+      213: -6131265831257574385
+    second: piso_inicio_juego_despejado_91
+  - first:
+      213: 6548348157521154898
+    second: piso_inicio_juego_despejado_92
+  - first:
+      213: 7665851320009499069
+    second: piso_inicio_juego_despejado_93
+  - first:
+      213: -198118533160323081
+    second: piso_inicio_juego_despejado_94
+  - first:
+      213: -3252421946078081395
+    second: piso_inicio_juego_despejado_95
+  - first:
+      213: -5671995561835705948
+    second: piso_inicio_juego_despejado_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 643
+        width: 1347
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b70ec3592d1bb90800000000000000
+      internalID: -7227764388539630705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 743
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb7433354be1ced0800000000000000
+      internalID: -2395374844340044819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 736
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94acfe6219e49e990800000000000000
+      internalID: -7356262131002521015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 736
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d45f66409d058db0800000000000000
+      internalID: -4790407715330501424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_4
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 748
+        width: 9
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6813ca0eb7f2fdd50800000000000000
+      internalID: 6764177374430638470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_5
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 719
+        width: 23
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b44b69a66f4da270800000000000000
+      internalID: 8263348193642366136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_6
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 719
+        width: 51
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444a62c8b5877ebd0800000000000000
+      internalID: -2600977925194472380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_7
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 737
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fc5b73b6d351e80800000000000000
+      internalID: -8208587215107404012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_8
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 660
+        width: 114
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fda13adf55883d80800000000000000
+      internalID: -8270714068936839687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_9
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 706
+        width: 478
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1e8a14e9827ead0800000000000000
+      internalID: -2673123193649569333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_10
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 755
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4be8aba051690b60800000000000000
+      internalID: 7712802835953937229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_11
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 736
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2f3d5af4f06c710800000000000000
+      internalID: 1713073543020016338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_12
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 725
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7552b81fa85ea00800000000000000
+      internalID: 785186480072251323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_13
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 739
+        width: 275
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846705518d9857120800000000000000
+      internalID: 2410984736690304584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f5226f732371c50800000000000000
+      internalID: 6635827791887753086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_15
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 728
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d290a6c42560360800000000000000
+      internalID: 7135481147765108011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_16
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 729
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8821119da2bf4ba90800000000000000
+      internalID: -7298932934611758456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_17
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 722
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d007518821386b40800000000000000
+      internalID: 5433647000460918998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_18
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 720
+        width: 5
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b861fa053d7e180800000000000000
+      internalID: -9086061379708351635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_19
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 726
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e7b67700b424d80800000000000000
+      internalID: -8267963500523192743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_20
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 710
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e994d6b77a2afbb30800000000000000
+      internalID: 4305338609003481502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 698
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d47e8756840d4810800000000000000
+      internalID: 1751060805158073557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_22
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 704
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb1e286db79c4eb0800000000000000
+      internalID: -4734242268520768519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_23
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 705
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e7c4d6a1eb07ca0800000000000000
+      internalID: -6021103681082196333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_24
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 705
+        width: 5
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251486ca3dcd8aa60800000000000000
+      internalID: 7685635565796475218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_25
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 713
+        width: 5
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9440bba295130450800000000000000
+      internalID: 6053706043805942938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_26
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 705
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d379f817e6d0c8160800000000000000
+      internalID: 7029007886421301053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_27
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 696
+        width: 8
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b879bc7a9411f9010800000000000000
+      internalID: 1197695033949263755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_28
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 700
+        width: 5
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7962926a362c05710800000000000000
+      internalID: 1680056394254460567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_29
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 656
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90a7ff72c080b9d0800000000000000
+      internalID: -2760564998719168357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 2560
+        height: 608
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c676c38b10f4f2860800000000000000
+      internalID: 7507305972654434156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 194
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdde100c20e843730800000000000000
+      internalID: 3977960513337421279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_32
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 192
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3407c68f3e89b9930800000000000000
+      internalID: 4151079586444898371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_33
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 55
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc49f89623dc5f80800000000000000
+      internalID: -8116380265699783434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 224
+        width: 7
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a0817c2dd2f5970800000000000000
+      internalID: 8745759384683416139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 209
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510f42ef15d65e600800000000000000
+      internalID: 496923532817920021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_36
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 179
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301ca612c39144630800000000000000
+      internalID: 3910278122513809667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 179
+        width: 44
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6873b2104eaf2bb30800000000000000
+      internalID: 4301776451271341958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_38
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 160
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aca1cd15bc4bbd0800000000000000
+      internalID: -2615241931149882841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_39
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 176
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeec71a6b68a4eba0800000000000000
+      internalID: -6060534019238932758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_40
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 176
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171702b01789bfb10800000000000000
+      internalID: 2016372869463830897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_41
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 162
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d7c341a84df1830800000000000000
+      internalID: 4044184679912078603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_42
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 174
+        width: 11
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057f8a0dc53ec1830800000000000000
+      internalID: 4043356553249093456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_43
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 163
+        width: 14
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13090843ec49f8110800000000000000
+      internalID: 1265393633679413297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_44
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 176
+        width: 33
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bd017e6f39f0f90800000000000000
+      internalID: -6985201808380470453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_45
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 163
+        width: 7
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8b334df24ffcde0800000000000000
+      internalID: -1310560480280725326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 177
+        width: 5
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d28a1e06be5aa40800000000000000
+      internalID: 5378964131299208574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_47
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 174
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56c05d7fcfa697c0800000000000000
+      internalID: -4064868307959757217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_48
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 165
+        width: 25
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b42b0866f0bd9c0800000000000000
+      internalID: -3901507719266153630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_49
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 175
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c68c1c67ca18820800000000000000
+      internalID: 2918803659570048048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_50
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 175
+        width: 18
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051e414cd2e20e590800000000000000
+      internalID: -7647061393176993456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_51
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 153
+        width: 6
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b6cf449936e52e0800000000000000
+      internalID: -2135159663388497126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_52
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 158
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7482ab439f5a88fc0800000000000000
+      internalID: -3492359021275764665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_53
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 144
+        width: 12
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ab3f49daeb26750800000000000000
+      internalID: 6296804881754995311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_54
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 144
+        width: 16
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b690fcd61bb0a2700800000000000000
+      internalID: 516237963966744939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_55
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 159
+        width: 5
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34504199bba714510800000000000000
+      internalID: 1531640294428378435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_56
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 153
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad34d49f00363820800000000000000
+      internalID: 2897556253739072929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_57
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 154
+        width: 5
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56f873c101f14220800000000000000
+      internalID: 2468519060652488284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_58
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 152
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a17acf4109c9180800000000000000
+      internalID: -9107245926637430171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_59
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 160
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c948c5d9460d3b0800000000000000
+      internalID: -5489777318739796908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_60
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 149
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65862d81094aef3e0800000000000000
+      internalID: -2017994644216715178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_61
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 160
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47ac376b53a65d90800000000000000
+      internalID: -7109315348788369590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_62
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 140
+        width: 48
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22358d8e27476490800000000000000
+      internalID: -7753149968226635222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_63
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 104
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85931fff0d9789dd0800000000000000
+      internalID: -2479097656313300648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_64
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 159
+        width: 27
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3355279dae3affbf0800000000000000
+      internalID: -288331622062598861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_65
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 183
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec4c77c815cd0da0800000000000000
+      internalID: -5976904420234081048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_66
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 145
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5865f0417264b6070800000000000000
+      internalID: 8100645488410187397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_67
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 176
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784e272d4ee6f0280800000000000000
+      internalID: -9074912795065916281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_68
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 176
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca4daf5865f37a50800000000000000
+      internalID: 6517822914365835975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_69
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 168
+        width: 27
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13883127b97270550800000000000000
+      internalID: 6126909366648145969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_70
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 162
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8075023b9809750800000000000000
+      internalID: 6309694480380791000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_71
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 160
+        width: 44
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abea3ef9e2cfb28f0800000000000000
+      internalID: -564080051123671366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_72
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 174
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64692ae1d19827cf0800000000000000
+      internalID: -255991470645668282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_73
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 144
+        width: 57
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6bad7e7154f2ab0800000000000000
+      internalID: -5030726289773119830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_74
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 105
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1deb4288c9e6cd0800000000000000
+      internalID: -2562939029381262926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_75
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 200
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033678e5fa803d340800000000000000
+      internalID: 4887259569925350192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_76
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 145
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d60488c7d9820450800000000000000
+      internalID: 6053552409014437591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_77
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 147
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c331c42a7d442f0800000000000000
+      internalID: -989428926053663601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_78
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 145
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdd930268ce99490800000000000000
+      internalID: -7738894423849050691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_79
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 153
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93184c466189ab9f0800000000000000
+      internalID: -451881590650011335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_80
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 174
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a570bfa1f18e92ec0800000000000000
+      internalID: -3591084007556970662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_81
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 170
+        width: 37
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848085c40513c0680800000000000000
+      internalID: -8787594551958697912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_82
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 160
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2cfe42eaebdd850800000000000000
+      internalID: 6403483900343993056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_83
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 150
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ad140be17866dc0800000000000000
+      internalID: -3646078282433963483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_84
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 176
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec890bc59edfc6ca0800000000000000
+      internalID: -6022159422976911154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_85
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 160
+        width: 38
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee4afc5f4003d080800000000000000
+      internalID: -9163980475906502940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_86
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 175
+        width: 4
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf18bc0ccdfd40e0800000000000000
+      internalID: -2283890383178424353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_87
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 154
+        width: 11
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8a7c86ed5f75080800000000000000
+      internalID: -9198613378291488596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_88
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 174
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a1a00bdb82aee70800000000000000
+      internalID: 9145166788496595550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_89
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 160
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b23a4c3078307fd0800000000000000
+      internalID: -2346313351161040200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_90
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 160
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd8edb77b32f92a0800000000000000
+      internalID: -6728620047304061492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_91
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 162
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04f668163e59eaa0800000000000000
+      internalID: -6131265831257574385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_92
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 175
+        width: 9
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253d1a264f760ea50800000000000000
+      internalID: 6548348157521154898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_93
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 160
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1202ef823926a60800000000000000
+      internalID: 7665851320009499069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_94
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 153
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7be876e34204df0800000000000000
+      internalID: -198118533160323081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_95
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 159
+        width: 5
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ec45cd8731dd2d0800000000000000
+      internalID: -3252421946078081395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_96
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 175
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9c03986160941b0800000000000000
+      internalID: -5671995561835705948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_97
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 182
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7426176b5d2ea8d4198cb9c8a4716c4e
+      internalID: 261409905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_98
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 176
+        width: 25
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68dc58fb00ce9544bb6ec712ff8d48e
+      internalID: -497911649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_99
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 88
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15156f5eaa5f2f043add2f7b13235f56
+      internalID: 1371142905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_100
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 200
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445b8b5de4aa9844ebc52c36367ce751
+      internalID: 1215218111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_101
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 168
+        width: 5
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358e16d54a3b7854588d67245d6ffc63
+      internalID: -1097015905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_102
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 166
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e3665525728e49b01c0e020510e34
+      internalID: 1922369790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_103
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 169
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caec05a20a83a1c48a191c371d109405
+      internalID: -471197659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_104
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 144
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072fb216f380e7c49a8cfe67f33f71a5
+      internalID: 609005405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_105
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 180
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17708be27d807174589f251b6b5b892c
+      internalID: 477711629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_inicio_juego_despejado_106
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 160
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21afe2f8d28cd814fb668f485c8343bd
+      internalID: 54269457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b95e98752a1fc22499b1ab80de9159cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":425.0,"y":1440.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":1.0,"y":1.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      piso_inicio_juego_despejado_0: -7227764388539630705
+      piso_inicio_juego_despejado_1: -2395374844340044819
+      piso_inicio_juego_despejado_10: 7712802835953937229
+      piso_inicio_juego_despejado_100: 1215218111
+      piso_inicio_juego_despejado_101: -1097015905
+      piso_inicio_juego_despejado_102: 1922369790
+      piso_inicio_juego_despejado_103: -471197659
+      piso_inicio_juego_despejado_104: 609005405
+      piso_inicio_juego_despejado_105: 477711629
+      piso_inicio_juego_despejado_106: 54269457
+      piso_inicio_juego_despejado_11: 1713073543020016338
+      piso_inicio_juego_despejado_12: 785186480072251323
+      piso_inicio_juego_despejado_13: 2410984736690304584
+      piso_inicio_juego_despejado_14: 6635827791887753086
+      piso_inicio_juego_despejado_15: 7135481147765108011
+      piso_inicio_juego_despejado_16: -7298932934611758456
+      piso_inicio_juego_despejado_17: 5433647000460918998
+      piso_inicio_juego_despejado_18: -9086061379708351635
+      piso_inicio_juego_despejado_19: -8267963500523192743
+      piso_inicio_juego_despejado_2: -7356262131002521015
+      piso_inicio_juego_despejado_20: 4305338609003481502
+      piso_inicio_juego_despejado_21: 1751060805158073557
+      piso_inicio_juego_despejado_22: -4734242268520768519
+      piso_inicio_juego_despejado_23: -6021103681082196333
+      piso_inicio_juego_despejado_24: 7685635565796475218
+      piso_inicio_juego_despejado_25: 6053706043805942938
+      piso_inicio_juego_despejado_26: 7029007886421301053
+      piso_inicio_juego_despejado_27: 1197695033949263755
+      piso_inicio_juego_despejado_28: 1680056394254460567
+      piso_inicio_juego_despejado_29: -2760564998719168357
+      piso_inicio_juego_despejado_3: -4790407715330501424
+      piso_inicio_juego_despejado_30: 7507305972654434156
+      piso_inicio_juego_despejado_31: 3977960513337421279
+      piso_inicio_juego_despejado_32: 4151079586444898371
+      piso_inicio_juego_despejado_33: -8116380265699783434
+      piso_inicio_juego_despejado_34: 8745759384683416139
+      piso_inicio_juego_despejado_35: 496923532817920021
+      piso_inicio_juego_despejado_36: 3910278122513809667
+      piso_inicio_juego_despejado_37: 4301776451271341958
+      piso_inicio_juego_despejado_38: -2615241931149882841
+      piso_inicio_juego_despejado_39: -6060534019238932758
+      piso_inicio_juego_despejado_4: 6764177374430638470
+      piso_inicio_juego_despejado_40: 2016372869463830897
+      piso_inicio_juego_despejado_41: 4044184679912078603
+      piso_inicio_juego_despejado_42: 4043356553249093456
+      piso_inicio_juego_despejado_43: 1265393633679413297
+      piso_inicio_juego_despejado_44: -6985201808380470453
+      piso_inicio_juego_despejado_45: -1310560480280725326
+      piso_inicio_juego_despejado_46: 5378964131299208574
+      piso_inicio_juego_despejado_47: -4064868307959757217
+      piso_inicio_juego_despejado_48: -3901507719266153630
+      piso_inicio_juego_despejado_49: 2918803659570048048
+      piso_inicio_juego_despejado_5: 8263348193642366136
+      piso_inicio_juego_despejado_50: -7647061393176993456
+      piso_inicio_juego_despejado_51: -2135159663388497126
+      piso_inicio_juego_despejado_52: -3492359021275764665
+      piso_inicio_juego_despejado_53: 6296804881754995311
+      piso_inicio_juego_despejado_54: 516237963966744939
+      piso_inicio_juego_despejado_55: 1531640294428378435
+      piso_inicio_juego_despejado_56: 2897556253739072929
+      piso_inicio_juego_despejado_57: 2468519060652488284
+      piso_inicio_juego_despejado_58: -9107245926637430171
+      piso_inicio_juego_despejado_59: -5489777318739796908
+      piso_inicio_juego_despejado_6: -2600977925194472380
+      piso_inicio_juego_despejado_60: -2017994644216715178
+      piso_inicio_juego_despejado_61: -7109315348788369590
+      piso_inicio_juego_despejado_62: -7753149968226635222
+      piso_inicio_juego_despejado_63: -2479097656313300648
+      piso_inicio_juego_despejado_64: -288331622062598861
+      piso_inicio_juego_despejado_65: -5976904420234081048
+      piso_inicio_juego_despejado_66: 8100645488410187397
+      piso_inicio_juego_despejado_67: -9074912795065916281
+      piso_inicio_juego_despejado_68: 6517822914365835975
+      piso_inicio_juego_despejado_69: 6126909366648145969
+      piso_inicio_juego_despejado_7: -8208587215107404012
+      piso_inicio_juego_despejado_70: 6309694480380791000
+      piso_inicio_juego_despejado_71: -564080051123671366
+      piso_inicio_juego_despejado_72: -255991470645668282
+      piso_inicio_juego_despejado_73: -5030726289773119830
+      piso_inicio_juego_despejado_74: -2562939029381262926
+      piso_inicio_juego_despejado_75: 4887259569925350192
+      piso_inicio_juego_despejado_76: 6053552409014437591
+      piso_inicio_juego_despejado_77: -989428926053663601
+      piso_inicio_juego_despejado_78: -7738894423849050691
+      piso_inicio_juego_despejado_79: -451881590650011335
+      piso_inicio_juego_despejado_8: -8270714068936839687
+      piso_inicio_juego_despejado_80: -3591084007556970662
+      piso_inicio_juego_despejado_81: -8787594551958697912
+      piso_inicio_juego_despejado_82: 6403483900343993056
+      piso_inicio_juego_despejado_83: -3646078282433963483
+      piso_inicio_juego_despejado_84: -6022159422976911154
+      piso_inicio_juego_despejado_85: -9163980475906502940
+      piso_inicio_juego_despejado_86: -2283890383178424353
+      piso_inicio_juego_despejado_87: -9198613378291488596
+      piso_inicio_juego_despejado_88: 9145166788496595550
+      piso_inicio_juego_despejado_89: -2346313351161040200
+      piso_inicio_juego_despejado_9: -2673123193649569333
+      piso_inicio_juego_despejado_90: -6728620047304061492
+      piso_inicio_juego_despejado_91: -6131265831257574385
+      piso_inicio_juego_despejado_92: 6548348157521154898
+      piso_inicio_juego_despejado_93: 7665851320009499069
+      piso_inicio_juego_despejado_94: -198118533160323081
+      piso_inicio_juego_despejado_95: -3252421946078081395
+      piso_inicio_juego_despejado_96: -5671995561835705948
+      piso_inicio_juego_despejado_97: 261409905
+      piso_inicio_juego_despejado_98: -497911649
+      piso_inicio_juego_despejado_99: 1371142905
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

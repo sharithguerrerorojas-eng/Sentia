@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: 01f4ee86542619b49853c7091c4c2481
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5563881613085982307
+    second: nova_encounter_side_sprites_row_0
+  - first:
+      213: -6943094808670778101
+    second: nova_encounter_side_sprites_row_1
+  - first:
+      213: -7639372251219459953
+    second: nova_encounter_side_sprites_row_2
+  - first:
+      213: -7215754829889358113
+    second: nova_encounter_side_sprites_row_3
+  - first:
+      213: -4778993114937181160
+    second: nova_encounter_side_sprites_row_4
+  - first:
+      213: 5089263749541120378
+    second: nova_encounter_side_sprites_row_5
+  - first:
+      213: -2393043348684560227
+    second: nova_encounter_side_sprites_row_6
+  - first:
+      213: 7044020505997026987
+    second: nova_encounter_side_sprites_row_7
+  - first:
+      213: -1610780208685965217
+    second: nova_encounter_side_sprites_row_8
+  - first:
+      213: -4932979720766230324
+    second: nova_encounter_side_sprites_row_9
+  - first:
+      213: -1229533071424568960
+    second: nova_encounter_side_sprites_row_10
+  - first:
+      213: -4250475532989671748
+    second: nova_encounter_side_sprites_row_11
+  - first:
+      213: 8764668312622860634
+    second: nova_encounter_side_sprites_row_12
+  - first:
+      213: 5329385726562101820
+    second: nova_encounter_side_sprites_row_13
+  - first:
+      213: 3426306523859131633
+    second: nova_encounter_side_sprites_row_14
+  - first:
+      213: -1780025709680157962
+    second: nova_encounter_side_sprites_row_15
+  - first:
+      213: -265683051680170596
+    second: nova_encounter_side_sprites_row_16
+  - first:
+      213: -4929980614909496691
+    second: nova_encounter_side_sprites_row_17
+  - first:
+      213: 5506871851290724038
+    second: nova_encounter_side_sprites_row_18
+  - first:
+      213: 1441859925465672761
+    second: nova_encounter_side_sprites_row_19
+  - first:
+      213: 995395687201714057
+    second: nova_encounter_side_sprites_row_20
+  - first:
+      213: -7563678805215114218
+    second: nova_encounter_side_sprites_row_21
+  - first:
+      213: 2180573008863646762
+    second: nova_encounter_side_sprites_row_22
+  - first:
+      213: 4763002363899066846
+    second: nova_encounter_side_sprites_row_23
+  - first:
+      213: -8934748266501622803
+    second: nova_encounter_side_sprites_row_24
+  - first:
+      213: 2377480238721489595
+    second: nova_encounter_side_sprites_row_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Encuentro_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 256
+        width: 301
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70167181ea8cf124fad30a85b13ceb78
+      internalID: 1040149085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encuentro_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 253
+        width: 306
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2941ac61aee98546b3b4486e58fd717
+      internalID: -1748574280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encuentro_2
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 263
+        width: 299
+        height: 617
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5479181a22063074b8a044249ee88191
+      internalID: 84962485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encuentro_3
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 256
+        width: 326
+        height: 621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759544bfcbcb46f47b7f702d86770eb0
+      internalID: -1036317756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encuentro_4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 265
+        width: 361
+        height: 614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a25a59fd7d44d4baa259cf5326e55d
+      internalID: 487819508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encuentro_5
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 259
+        width: 305
+        height: 629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920cf7b6225696e4c9fc247cfd5cb7b6
+      internalID: -711686860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encuentro_6
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 259
+        width: 303
+        height: 613
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c544efd7c34004c9fa2b55dd348905
+      internalID: 783216892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Encuentro_7
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 258
+        width: 293
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b399fe1cf8cfe4b83d68085f086b1a
+      internalID: 1928644850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 18788cba382449744ae56ae88595571f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":336.0,"y":1152.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Encuentro_0: 1040149085
+      Encuentro_1: -1748574280
+      Encuentro_2: 84962485
+      Encuentro_3: -1036317756
+      Encuentro_4: 487819508
+      Encuentro_5: -711686860
+      Encuentro_6: 783216892
+      Encuentro_7: 1928644850
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

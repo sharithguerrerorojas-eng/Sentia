@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 419ea112438a2da4dbf6826275bb4baa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6937024349338511709
+    second: nova_magic_attack_side_sprites_row_0
+  - first:
+      213: 2694726398905675147
+    second: nova_magic_attack_side_sprites_row_1
+  - first:
+      213: -519336490189216944
+    second: nova_magic_attack_side_sprites_row_2
+  - first:
+      213: -8959006895179948852
+    second: nova_magic_attack_side_sprites_row_3
+  - first:
+      213: 1624475996627364034
+    second: nova_magic_attack_side_sprites_row_4
+  - first:
+      213: 4295111155376979534
+    second: nova_magic_attack_side_sprites_row_5
+  - first:
+      213: -6982766389973487457
+    second: nova_magic_attack_side_sprites_row_6
+  - first:
+      213: -868242473079012170
+    second: nova_magic_attack_side_sprites_row_7
+  - first:
+      213: -5231235127491243781
+    second: nova_magic_attack_side_sprites_row_8
+  - first:
+      213: -9080411634551407682
+    second: nova_magic_attack_side_sprites_row_9
+  - first:
+      213: -2510858768609080295
+    second: nova_magic_attack_side_sprites_row_10
+  - first:
+      213: -7707630160235051387
+    second: nova_magic_attack_side_sprites_row_11
+  - first:
+      213: 184713647734379719
+    second: nova_magic_attack_side_sprites_row_12
+  - first:
+      213: -7305100143120686291
+    second: nova_magic_attack_side_sprites_row_13
+  - first:
+      213: 2499948751073306417
+    second: nova_magic_attack_side_sprites_row_14
+  - first:
+      213: 7250892133247316067
+    second: nova_magic_attack_side_sprites_row_15
+  - first:
+      213: 2525116522514765109
+    second: nova_magic_attack_side_sprites_row_16
+  - first:
+      213: 3943187891280479374
+    second: nova_magic_attack_side_sprites_row_17
+  - first:
+      213: 3024055694385312553
+    second: nova_magic_attack_side_sprites_row_18
+  - first:
+      213: -229516778999618862
+    second: nova_magic_attack_side_sprites_row_19
+  - first:
+      213: 2953580199128613948
+    second: nova_magic_attack_side_sprites_row_20
+  - first:
+      213: 2733222074951042106
+    second: nova_magic_attack_side_sprites_row_21
+  - first:
+      213: -8175820452339838992
+    second: nova_magic_attack_side_sprites_row_22
+  - first:
+      213: 5837549851263249775
+    second: nova_magic_attack_side_sprites_row_23
+  - first:
+      213: 2608363107916617320
+    second: nova_magic_attack_side_sprites_row_24
+  - first:
+      213: -4173455364573449922
+    second: nova_magic_attack_side_sprites_row_25
+  - first:
+      213: -196481885018522193
+    second: nova_magic_attack_side_sprites_row_26
+  - first:
+      213: -1564006533995078130
+    second: nova_magic_attack_side_sprites_row_27
+  - first:
+      213: -2700339749344841879
+    second: nova_magic_attack_side_sprites_row_28
+  - first:
+      213: 4307654474525083679
+    second: nova_magic_attack_side_sprites_row_29
+  - first:
+      213: 1825935503386506375
+    second: nova_magic_attack_side_sprites_row_30
+  - first:
+      213: -4213790941992328502
+    second: nova_magic_attack_side_sprites_row_31
+  - first:
+      213: -8640235339007475631
+    second: nova_magic_attack_side_sprites_row_32
+  - first:
+      213: 3868622264535130972
+    second: nova_magic_attack_side_sprites_row_33
+  - first:
+      213: -3685552116522839673
+    second: nova_magic_attack_side_sprites_row_34
+  - first:
+      213: 7106695261226838666
+    second: nova_magic_attack_side_sprites_row_35
+  - first:
+      213: 3185919001031297829
+    second: nova_magic_attack_side_sprites_row_36
+  - first:
+      213: 1594384369343509949
+    second: nova_magic_attack_side_sprites_row_37
+  - first:
+      213: -6732935782708758567
+    second: nova_magic_attack_side_sprites_row_38
+  - first:
+      213: 4933114329956905228
+    second: nova_magic_attack_side_sprites_row_39
+  - first:
+      213: 4100703150604878238
+    second: nova_magic_attack_side_sprites_row_40
+  - first:
+      213: -1049358943688733502
+    second: nova_magic_attack_side_sprites_row_41
+  - first:
+      213: 8012673306796622689
+    second: nova_magic_attack_side_sprites_row_42
+  - first:
+      213: 3572900578644702640
+    second: nova_magic_attack_side_sprites_row_43
+  - first:
+      213: 7103140881551425000
+    second: nova_magic_attack_side_sprites_row_44
+  - first:
+      213: -4416246025634236798
+    second: nova_magic_attack_side_sprites_row_45
+  - first:
+      213: -631704558317869639
+    second: nova_magic_attack_side_sprites_row_46
+  - first:
+      213: -7166071312197326687
+    second: nova_magic_attack_side_sprites_row_47
+  - first:
+      213: -3208426203799052718
+    second: nova_magic_attack_side_sprites_row_48
+  - first:
+      213: 8775109603114250320
+    second: nova_magic_attack_side_sprites_row_49
+  - first:
+      213: -201633991880558642
+    second: nova_magic_attack_side_sprites_row_50
+  - first:
+      213: 2950729982693349719
+    second: nova_magic_attack_side_sprites_row_51
+  - first:
+      213: -1450031479705925533
+    second: nova_magic_attack_side_sprites_row_52
+  - first:
+      213: 3323678685530397888
+    second: nova_magic_attack_side_sprites_row_53
+  - first:
+      213: -3577811571272368172
+    second: nova_magic_attack_side_sprites_row_54
+  - first:
+      213: -5787621841710821283
+    second: nova_magic_attack_side_sprites_row_55
+  - first:
+      213: 6951279213667971264
+    second: nova_magic_attack_side_sprites_row_56
+  - first:
+      213: 309402867243621372
+    second: nova_magic_attack_side_sprites_row_57
+  - first:
+      213: 8368742189132586798
+    second: nova_magic_attack_side_sprites_row_58
+  - first:
+      213: -6972782568834695292
+    second: nova_magic_attack_side_sprites_row_59
+  - first:
+      213: -7171915848063953367
+    second: nova_magic_attack_side_sprites_row_60
+  - first:
+      213: 3088262034155067832
+    second: nova_magic_attack_side_sprites_row_61
+  - first:
+      213: -203474933616990703
+    second: nova_magic_attack_side_sprites_row_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lanzar magia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 277
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e61279e3efb914ab6cde19422aa2c3
+      internalID: -7245970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanzar magia_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 307
+        width: 280
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e77dffc7e5965439319ba7ae40a4db
+      internalID: -2022511854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanzar magia_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 307
+        width: 340
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe3919149ed57341ba9874e706a5f1e
+      internalID: -982017957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanzar magia_3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 301
+        width: 359
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7048efff47ef8614c93b9f87731a3364
+      internalID: 192476740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanzar magia_4
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 313
+        width: 363
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7b866195b0f4040890d0e5d801b5a7
+      internalID: 1175384186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanzar magia_5
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 303
+        width: 330
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffc00841a027404bb3ea567fa78f697
+      internalID: -424178964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanzar magia_6
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 303
+        width: 336
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2ced448953fd146819d45b88a90dd5
+      internalID: -765593857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lanzar magia_7
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 306
+        width: 336
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d6b7df07ebb4246b2a754e10bb0e9d
+      internalID: 1521353346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5c151dfd9d2a4446b371e78984d4490
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":336.0,"y":1152.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Lanzar magia_0: -7245970
+      Lanzar magia_1: -2022511854
+      Lanzar magia_2: -982017957
+      Lanzar magia_3: 192476740
+      Lanzar magia_4: 1175384186
+      Lanzar magia_5: -424178964
+      Lanzar magia_6: -765593857
+      Lanzar magia_7: 1521353346
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

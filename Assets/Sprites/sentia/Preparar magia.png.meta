@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 3885ba08a12bb61409d7c7128a5de2cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8998107316036305032
+    second: nova_prepare_magic_side_sprites_row_0
+  - first:
+      213: 3834787355541735047
+    second: nova_prepare_magic_side_sprites_row_1
+  - first:
+      213: 9005881840671983248
+    second: nova_prepare_magic_side_sprites_row_2
+  - first:
+      213: 3980160074820836861
+    second: nova_prepare_magic_side_sprites_row_3
+  - first:
+      213: -6604159929328770409
+    second: nova_prepare_magic_side_sprites_row_4
+  - first:
+      213: -5857973702010633166
+    second: nova_prepare_magic_side_sprites_row_5
+  - first:
+      213: 2447417512768025778
+    second: nova_prepare_magic_side_sprites_row_6
+  - first:
+      213: -8847589832898698809
+    second: nova_prepare_magic_side_sprites_row_7
+  - first:
+      213: 67140312190180852
+    second: nova_prepare_magic_side_sprites_row_8
+  - first:
+      213: 980211889064843529
+    second: nova_prepare_magic_side_sprites_row_9
+  - first:
+      213: -2036470287056590119
+    second: nova_prepare_magic_side_sprites_row_10
+  - first:
+      213: -3777098815492834533
+    second: nova_prepare_magic_side_sprites_row_11
+  - first:
+      213: 8228123375367101797
+    second: nova_prepare_magic_side_sprites_row_12
+  - first:
+      213: 5998803735966156718
+    second: nova_prepare_magic_side_sprites_row_13
+  - first:
+      213: -1076616704414996885
+    second: nova_prepare_magic_side_sprites_row_14
+  - first:
+      213: 6750224725804458399
+    second: nova_prepare_magic_side_sprites_row_15
+  - first:
+      213: 6044811365220373190
+    second: nova_prepare_magic_side_sprites_row_16
+  - first:
+      213: 2733077145615257370
+    second: nova_prepare_magic_side_sprites_row_17
+  - first:
+      213: 9156449931425363416
+    second: nova_prepare_magic_side_sprites_row_18
+  - first:
+      213: 67860422743869883
+    second: nova_prepare_magic_side_sprites_row_19
+  - first:
+      213: 7107181565377474108
+    second: nova_prepare_magic_side_sprites_row_20
+  - first:
+      213: -1161937767460347698
+    second: nova_prepare_magic_side_sprites_row_21
+  - first:
+      213: -7673926619497888980
+    second: nova_prepare_magic_side_sprites_row_22
+  - first:
+      213: -5397261278292012316
+    second: nova_prepare_magic_side_sprites_row_23
+  - first:
+      213: 5051830041802047294
+    second: nova_prepare_magic_side_sprites_row_24
+  - first:
+      213: -8834614635700586903
+    second: nova_prepare_magic_side_sprites_row_25
+  - first:
+      213: 7847924126291850781
+    second: nova_prepare_magic_side_sprites_row_26
+  - first:
+      213: 5669058154708264519
+    second: nova_prepare_magic_side_sprites_row_27
+  - first:
+      213: -2200150988637221686
+    second: nova_prepare_magic_side_sprites_row_28
+  - first:
+      213: -234982266449498389
+    second: nova_prepare_magic_side_sprites_row_29
+  - first:
+      213: 3798484776954835493
+    second: nova_prepare_magic_side_sprites_row_30
+  - first:
+      213: -4784090556097661766
+    second: nova_prepare_magic_side_sprites_row_31
+  - first:
+      213: -7442667889782283159
+    second: nova_prepare_magic_side_sprites_row_32
+  - first:
+      213: -8965217857125100013
+    second: nova_prepare_magic_side_sprites_row_33
+  - first:
+      213: -4841526766621742889
+    second: nova_prepare_magic_side_sprites_row_34
+  - first:
+      213: 6952366814004337446
+    second: nova_prepare_magic_side_sprites_row_35
+  - first:
+      213: 8256753052708890384
+    second: nova_prepare_magic_side_sprites_row_36
+  - first:
+      213: -691067110052877179
+    second: nova_prepare_magic_side_sprites_row_37
+  - first:
+      213: 9199411603535305905
+    second: nova_prepare_magic_side_sprites_row_38
+  - first:
+      213: 8607478666492836226
+    second: nova_prepare_magic_side_sprites_row_39
+  - first:
+      213: 9130073710164798008
+    second: nova_prepare_magic_side_sprites_row_40
+  - first:
+      213: 4875668475243357936
+    second: nova_prepare_magic_side_sprites_row_41
+  - first:
+      213: 8025472913279366957
+    second: nova_prepare_magic_side_sprites_row_42
+  - first:
+      213: -8912021597075889752
+    second: nova_prepare_magic_side_sprites_row_43
+  - first:
+      213: 4327852720922184529
+    second: nova_prepare_magic_side_sprites_row_44
+  - first:
+      213: 7635682706020725557
+    second: nova_prepare_magic_side_sprites_row_45
+  - first:
+      213: -630921237662644176
+    second: nova_prepare_magic_side_sprites_row_46
+  - first:
+      213: -8267448419614589315
+    second: nova_prepare_magic_side_sprites_row_47
+  - first:
+      213: 5088283857423490759
+    second: nova_prepare_magic_side_sprites_row_48
+  - first:
+      213: 3741368605860475208
+    second: nova_prepare_magic_side_sprites_row_49
+  - first:
+      213: -924111197393373932
+    second: nova_prepare_magic_side_sprites_row_50
+  - first:
+      213: 3669821289822910923
+    second: nova_prepare_magic_side_sprites_row_51
+  - first:
+      213: -6279600349013803768
+    second: nova_prepare_magic_side_sprites_row_52
+  - first:
+      213: 8124941619736620144
+    second: nova_prepare_magic_side_sprites_row_53
+  - first:
+      213: 16215689446237837
+    second: nova_prepare_magic_side_sprites_row_54
+  - first:
+      213: -4785412579439072533
+    second: nova_prepare_magic_side_sprites_row_55
+  - first:
+      213: -6784370769842456640
+    second: nova_prepare_magic_side_sprites_row_56
+  - first:
+      213: 3208737839510387492
+    second: nova_prepare_magic_side_sprites_row_57
+  - first:
+      213: -5430030265249881447
+    second: nova_prepare_magic_side_sprites_row_58
+  - first:
+      213: 4509302563447228044
+    second: nova_prepare_magic_side_sprites_row_59
+  - first:
+      213: 1151312099608289242
+    second: nova_prepare_magic_side_sprites_row_60
+  - first:
+      213: -2024582555848034073
+    second: nova_prepare_magic_side_sprites_row_61
+  - first:
+      213: -5921767031911471629
+    second: nova_prepare_magic_side_sprites_row_62
+  - first:
+      213: -3954363571507479023
+    second: nova_prepare_magic_side_sprites_row_63
+  - first:
+      213: -244105301058107464
+    second: nova_prepare_magic_side_sprites_row_64
+  - first:
+      213: -5847112520285639046
+    second: nova_prepare_magic_side_sprites_row_65
+  - first:
+      213: 6152765034604286877
+    second: nova_prepare_magic_side_sprites_row_66
+  - first:
+      213: -4093059911205202270
+    second: nova_prepare_magic_side_sprites_row_67
+  - first:
+      213: 8363284215492748021
+    second: nova_prepare_magic_side_sprites_row_68
+  - first:
+      213: 6644544463384056292
+    second: nova_prepare_magic_side_sprites_row_69
+  - first:
+      213: 7959420417476171695
+    second: nova_prepare_magic_side_sprites_row_70
+  - first:
+      213: 4534491523891311868
+    second: nova_prepare_magic_side_sprites_row_71
+  - first:
+      213: -2840556526358786136
+    second: nova_prepare_magic_side_sprites_row_72
+  - first:
+      213: 7007970483751657671
+    second: nova_prepare_magic_side_sprites_row_73
+  - first:
+      213: -4996177548416973846
+    second: nova_prepare_magic_side_sprites_row_74
+  - first:
+      213: 7875815227779498793
+    second: nova_prepare_magic_side_sprites_row_75
+  - first:
+      213: -495491060108962658
+    second: nova_prepare_magic_side_sprites_row_76
+  - first:
+      213: -6385157663665380134
+    second: nova_prepare_magic_side_sprites_row_77
+  - first:
+      213: 7933564748683997204
+    second: nova_prepare_magic_side_sprites_row_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Preparar magia_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 321
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d93809996af0439c55b6f6bf6fa28
+      internalID: 1258817963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preparar magia_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 320
+        width: 336
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e6f3987f9a0804aaa9c5450a0e46d5
+      internalID: 596257682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preparar magia_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 320
+        width: 336
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9881cb35afeb7bf4aac17b1542de6876
+      internalID: 653855985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preparar magia_3
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 320
+        width: 336
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4347fb202f9b5544ebba239fdd24cd6e
+      internalID: 1273421501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preparar magia_4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 320
+        width: 336
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a1b703697d850428966975548c3060
+      internalID: -685023803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preparar magia_5
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 320
+        width: 336
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eef0cb5e360e804abbe133f982beab3
+      internalID: -1331035558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preparar magia_6
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 320
+        width: 336
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8196b396e7d70584da2c54fc35899a2a
+      internalID: -453021932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Preparar magia_7
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 320
+        width: 336
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bd6e30d13802440be4b0e81b54d9e6
+      internalID: 68856364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c2a63d9a54ddc5b4b8082a027786bb9b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":336.0,"y":1152.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Preparar magia_0: 1258817963
+      Preparar magia_1: 596257682
+      Preparar magia_2: 653855985
+      Preparar magia_3: 1273421501
+      Preparar magia_4: -685023803
+      Preparar magia_5: -1331035558
+      Preparar magia_6: -453021932
+      Preparar magia_7: 68856364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

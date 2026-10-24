@@ -1,0 +1,2329 @@
+fileFormatVersion: 2
+guid: a356c2079f9cd4947a283da4aee2c625
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3877099610584680017
+    second: piso_bosque_violeta_transparente_0
+  - first:
+      213: 4136233978981898572
+    second: piso_bosque_violeta_transparente_1
+  - first:
+      213: 8688835026742366179
+    second: piso_bosque_violeta_transparente_2
+  - first:
+      213: 2702473185031353730
+    second: piso_bosque_violeta_transparente_3
+  - first:
+      213: -9072989493318190460
+    second: piso_bosque_violeta_transparente_4
+  - first:
+      213: 902933878334415056
+    second: piso_bosque_violeta_transparente_5
+  - first:
+      213: -3496320875936033650
+    second: piso_bosque_violeta_transparente_6
+  - first:
+      213: -1300026692423673038
+    second: piso_bosque_violeta_transparente_7
+  - first:
+      213: -8169439910979918549
+    second: piso_bosque_violeta_transparente_8
+  - first:
+      213: 2483121056330954202
+    second: piso_bosque_violeta_transparente_9
+  - first:
+      213: -8277571715046312152
+    second: piso_bosque_violeta_transparente_10
+  - first:
+      213: -14065020392460603
+    second: piso_bosque_violeta_transparente_11
+  - first:
+      213: 2300168193955532867
+    second: piso_bosque_violeta_transparente_12
+  - first:
+      213: 578568250586237657
+    second: piso_bosque_violeta_transparente_13
+  - first:
+      213: -7090709243788837069
+    second: piso_bosque_violeta_transparente_14
+  - first:
+      213: -846956804617776337
+    second: piso_bosque_violeta_transparente_15
+  - first:
+      213: 8690843007307207681
+    second: piso_bosque_violeta_transparente_16
+  - first:
+      213: -2999470557142864117
+    second: piso_bosque_violeta_transparente_17
+  - first:
+      213: -1305594111751422536
+    second: piso_bosque_violeta_transparente_18
+  - first:
+      213: -3447620644243267083
+    second: piso_bosque_violeta_transparente_19
+  - first:
+      213: 2439230298815347127
+    second: piso_bosque_violeta_transparente_20
+  - first:
+      213: -3729445078637912080
+    second: piso_bosque_violeta_transparente_21
+  - first:
+      213: -6216040626222540077
+    second: piso_bosque_violeta_transparente_22
+  - first:
+      213: 9065638072573769080
+    second: piso_bosque_violeta_transparente_23
+  - first:
+      213: -2123817876113167281
+    second: piso_bosque_violeta_transparente_24
+  - first:
+      213: 5294374188853781112
+    second: piso_bosque_violeta_transparente_25
+  - first:
+      213: -2550967083631428351
+    second: piso_bosque_violeta_transparente_26
+  - first:
+      213: 3564738828738330309
+    second: piso_bosque_violeta_transparente_27
+  - first:
+      213: -4710595638627998739
+    second: piso_bosque_violeta_transparente_28
+  - first:
+      213: -3739185222450955274
+    second: piso_bosque_violeta_transparente_29
+  - first:
+      213: -3352131442064609814
+    second: piso_bosque_violeta_transparente_30
+  - first:
+      213: -2545212377682177552
+    second: piso_bosque_violeta_transparente_31
+  - first:
+      213: -557468930263379841
+    second: piso_bosque_violeta_transparente_32
+  - first:
+      213: -4062539199018070160
+    second: piso_bosque_violeta_transparente_33
+  - first:
+      213: -7501146569626668378
+    second: piso_bosque_violeta_transparente_34
+  - first:
+      213: 5854760008336887995
+    second: piso_bosque_violeta_transparente_35
+  - first:
+      213: 6258512227616972909
+    second: piso_bosque_violeta_transparente_36
+  - first:
+      213: 1329807566932630409
+    second: piso_bosque_violeta_transparente_37
+  - first:
+      213: -8179258039285641921
+    second: piso_bosque_violeta_transparente_38
+  - first:
+      213: -4663019326667541159
+    second: piso_bosque_violeta_transparente_39
+  - first:
+      213: -2235873596414205527
+    second: piso_bosque_violeta_transparente_40
+  - first:
+      213: -2283931890328136981
+    second: piso_bosque_violeta_transparente_41
+  - first:
+      213: -8585744293227637363
+    second: piso_bosque_violeta_transparente_42
+  - first:
+      213: 944409009880036180
+    second: piso_bosque_violeta_transparente_43
+  - first:
+      213: -1792567181294067488
+    second: piso_bosque_violeta_transparente_44
+  - first:
+      213: -4369120349629578077
+    second: piso_bosque_violeta_transparente_45
+  - first:
+      213: 3931000335767357737
+    second: piso_bosque_violeta_transparente_46
+  - first:
+      213: 1147299941448979358
+    second: piso_bosque_violeta_transparente_47
+  - first:
+      213: 9123649606534391148
+    second: piso_bosque_violeta_transparente_48
+  - first:
+      213: 4580151295258868487
+    second: piso_bosque_violeta_transparente_49
+  - first:
+      213: -363488195078130429
+    second: piso_bosque_violeta_transparente_50
+  - first:
+      213: 5122079430651887950
+    second: piso_bosque_violeta_transparente_51
+  - first:
+      213: -7598162673453909779
+    second: piso_bosque_violeta_transparente_52
+  - first:
+      213: 4556457976473600640
+    second: piso_bosque_violeta_transparente_53
+  - first:
+      213: 266544303728450445
+    second: piso_bosque_violeta_transparente_54
+  - first:
+      213: 7917218984671671882
+    second: piso_bosque_violeta_transparente_55
+  - first:
+      213: 6261010712230738524
+    second: piso_bosque_violeta_transparente_56
+  - first:
+      213: -6891608739589292711
+    second: piso_bosque_violeta_transparente_57
+  - first:
+      213: 4694651191320896256
+    second: piso_bosque_violeta_transparente_58
+  - first:
+      213: -5757234246659983788
+    second: piso_bosque_violeta_transparente_59
+  - first:
+      213: 5859651908970775050
+    second: piso_bosque_violeta_transparente_60
+  - first:
+      213: -417734914576472885
+    second: piso_bosque_violeta_transparente_61
+  - first:
+      213: -8475140175762699015
+    second: piso_bosque_violeta_transparente_62
+  - first:
+      213: 5535486499761458925
+    second: piso_bosque_violeta_transparente_63
+  - first:
+      213: 933057733312798041
+    second: piso_bosque_violeta_transparente_64
+  - first:
+      213: 1619165327552422390
+    second: piso_bosque_violeta_transparente_65
+  - first:
+      213: -6549958007627299165
+    second: piso_bosque_violeta_transparente_66
+  - first:
+      213: 6778807687760342312
+    second: piso_bosque_violeta_transparente_67
+  - first:
+      213: 4662343369320514324
+    second: piso_bosque_violeta_transparente_68
+  - first:
+      213: 7189735280066290594
+    second: piso_bosque_violeta_transparente_69
+  - first:
+      213: 1644721117183555677
+    second: piso_bosque_violeta_transparente_70
+  - first:
+      213: -5131627682047088745
+    second: piso_bosque_violeta_transparente_71
+  - first:
+      213: -2095315528639274835
+    second: piso_bosque_violeta_transparente_72
+  - first:
+      213: -1302699315666389180
+    second: piso_bosque_violeta_transparente_73
+  - first:
+      213: 8042437359697437647
+    second: piso_bosque_violeta_transparente_74
+  - first:
+      213: 3704384876490172661
+    second: piso_bosque_violeta_transparente_75
+  - first:
+      213: 4040918144993486584
+    second: piso_bosque_violeta_transparente_76
+  - first:
+      213: 291867805336812740
+    second: piso_bosque_violeta_transparente_77
+  - first:
+      213: -7732323578349976701
+    second: piso_bosque_violeta_transparente_78
+  - first:
+      213: 2222418004416928045
+    second: piso_bosque_violeta_transparente_79
+  - first:
+      213: -674740119512891106
+    second: piso_bosque_violeta_transparente_80
+  - first:
+      213: -6590073305461632068
+    second: piso_bosque_violeta_transparente_81
+  - first:
+      213: -329336426848309454
+    second: piso_bosque_violeta_transparente_82
+  - first:
+      213: -659793568008913037
+    second: piso_bosque_violeta_transparente_83
+  - first:
+      213: -190052943612637831
+    second: piso_bosque_violeta_transparente_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 975
+        width: 547
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15684b7dd893ec530800000000000000
+      internalID: 3877099610584680017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1053
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49dd11a3ead66930800000000000000
+      internalID: 4136233978981898572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1041
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef43f0eb61f49870800000000000000
+      internalID: 8688835026742366179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 903
+        width: 767
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285ffc02b0d118520800000000000000
+      internalID: 2702473185031353730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_4
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 911
+        width: 231
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48afae76024461280800000000000000
+      internalID: -9072989493318190460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_5
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 913
+        width: 891
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0e9c1149dd78c00800000000000000
+      internalID: 902933878334415056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_6
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 1057
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84dc0900b29a7fc0800000000000000
+      internalID: -3496320875936033650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_7
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1063
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b9f8f6c9065fde0800000000000000
+      internalID: -1300026692423673038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_8
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1059
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25a42c3fa150ae80800000000000000
+      internalID: -8169439910979918549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1045
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad536e0d171d57220800000000000000
+      internalID: 2483121056330954202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1038
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827f7d1b168202d80800000000000000
+      internalID: -8277571715046312152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1041
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceafbf30f70ecff0800000000000000
+      internalID: -14065020392460603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_12
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1041
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3401f5c19c6dbef10800000000000000
+      internalID: 2300168193955532867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_13
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1026
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da038e22cc770800800000000000000
+      internalID: 578568250586237657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1029
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f336ec28db89d90800000000000000
+      internalID: -7090709243788837069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_15
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 1009
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2358a806410f34f0800000000000000
+      internalID: -846956804617776337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_16
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1025
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104db394ba31c9870800000000000000
+      internalID: 8690843007307207681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_17
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 963
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fa14f8b6dbf56d0800000000000000
+      internalID: -2999470557142864117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_18
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 993
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf63c921991ede0800000000000000
+      internalID: -1305594111751422536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_19
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 975
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1a3935a479720d0800000000000000
+      internalID: -3447620644243267083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_20
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 975
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9324e7803e9d120800000000000000
+      internalID: 2439230298815347127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_21
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 974
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff557ed5795e3cc0800000000000000
+      internalID: -3729445078637912080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_22
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 977
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dadb940cff2cb9a0800000000000000
+      internalID: -6216040626222540077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_23
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 974
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87534029bcd9fcd70800000000000000
+      internalID: 9065638072573769080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_24
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 974
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c66a6e4eea682e0800000000000000
+      internalID: -2123817876113167281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_25
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 974
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87260a22645697940800000000000000
+      internalID: 5294374188853781112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_26
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 925
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d3f6af3f4299cd0800000000000000
+      internalID: -2550967083631428351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_27
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 959
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce7df3f31f787130800000000000000
+      internalID: 3564738828738330309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_28
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 967
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3e217793a90aeb0800000000000000
+      internalID: -4710595638627998739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_29
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 957
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbbb6ae9debb1cc0800000000000000
+      internalID: -3739185222450955274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_30
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 961
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed225bb636da71d0800000000000000
+      internalID: -3352131442064609814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_31
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 959
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1935ed3d69dacd0800000000000000
+      internalID: -2545212377682177552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_32
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 945
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70955626f87348f0800000000000000
+      internalID: -557468930263379841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_33
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 942
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f8d6c6f16fe97c0800000000000000
+      internalID: -4062539199018070160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_34
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 943
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2334d00f296e790800000000000000
+      internalID: -7501146569626668378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2560
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0551e2539404150800000000000000
+      internalID: 5854760008336887995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_36
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 255
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d606c8546b3bad650800000000000000
+      internalID: 6258512227616972909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b55aebfec647210800000000000000
+      internalID: 1329807566932630409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 235
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d0f1a16207d7e80800000000000000
+      internalID: -8179258039285641921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_39
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 271
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955333dc0a0a94fb0800000000000000
+      internalID: -4663019326667541159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_40
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 271
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a16e0b6fc498f0e0800000000000000
+      internalID: -2235873596414205527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_41
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 219
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be21ec9eb08dd40e0800000000000000
+      internalID: -2283931890328136981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 269
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8554d5fd0f49d880800000000000000
+      internalID: -8585744293227637363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_43
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 250
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453f394adf63b1d00800000000000000
+      internalID: 944409009880036180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 229
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0a1f265a58f17e0800000000000000
+      internalID: -1792567181294067488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_45
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 233
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4066bc034cd53c0800000000000000
+      internalID: -4369120349629578077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_46
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 255
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929ca516af7bd8630800000000000000
+      internalID: 3931000335767357737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_47
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 269
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9394e4d7370cef00800000000000000
+      internalID: 1147299941448979358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_48
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 281
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c656d9c5af6bd9e70800000000000000
+      internalID: 9123649606534391148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_49
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 283
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b337b1657ff8f30800000000000000
+      internalID: 4580151295258868487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 285
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305f1549961a4faf0800000000000000
+      internalID: -363488195078130429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_51
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 271
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41475faa18451740800000000000000
+      internalID: 5122079430651887950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_52
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 269
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8b5272e47ed8690800000000000000
+      internalID: -7598162673453909779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_53
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 271
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08244b1736acb3f30800000000000000
+      internalID: 4556457976473600640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_54
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 271
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b53acc1a4f2b300800000000000000
+      internalID: 266544303728450445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 209
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46755628bc9fdd60800000000000000
+      internalID: 7917218984671671882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_56
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 207
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5abd6d021493e650800000000000000
+      internalID: 6261010712230738524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_57
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 209
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d7dc95d561c50a0800000000000000
+      internalID: -6891608739589292711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_58
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 209
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003eb0b9260c62140800000000000000
+      internalID: 4694651191320896256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_59
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 209
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4563e1fa4f13a10b0800000000000000
+      internalID: -5757234246659983788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_60
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 236
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0284ad8d5aa15150800000000000000
+      internalID: 5859651908970775050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_61
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 223
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc42466fe48e33af0800000000000000
+      internalID: -417734914576472885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_62
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 183
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcc502d9e0426a80800000000000000
+      internalID: -8475140175762699015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_63
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 197
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee804da4aff1dc40800000000000000
+      internalID: 5535486499761458925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_64
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 279
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d5a0d9013e2fc00800000000000000
+      internalID: 933057733312798041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_65
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 287
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f12465694e687610800000000000000
+      internalID: 1619165327552422390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_66
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 287
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a646ad25efd915a0800000000000000
+      internalID: -6549958007627299165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_67
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 267
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d64a52da9231e50800000000000000
+      internalID: 6778807687760342312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_68
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 255
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134f3d9798f3b040800000000000000
+      internalID: 4662343369320514324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_69
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 225
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3e175f42217c360800000000000000
+      internalID: 7189735280066290594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_70
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 239
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d583f48542933d610800000000000000
+      internalID: 1644721117183555677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_71
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 259
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797a50ccfcbc8c8b0800000000000000
+      internalID: -5131627682047088745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_72
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 271
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0a81fc0a1fbe2e0800000000000000
+      internalID: -2095315528639274835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_73
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 205
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4477f88dfd1ebede0800000000000000
+      internalID: -1302699315666389180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_74
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 196
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3a8110b2a7c9f60800000000000000
+      internalID: 8042437359697437647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_75
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 189
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8a6822b6e986330800000000000000
+      internalID: 3704384876490172661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_76
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 187
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f664c6a4a9341830800000000000000
+      internalID: 4040918144993486584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_77
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 231
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc397af83cec0400800000000000000
+      internalID: 291867805336812740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_78
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 238
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38382105ca441b490800000000000000
+      internalID: -7732323578349976701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_79
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 225
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2914bf666d97de10800000000000000
+      internalID: 2222418004416928045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_80
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 193
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11cabcaf67d2a6f0800000000000000
+      internalID: -674740119512891106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_81
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 189
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3dc209e3b5b84a0800000000000000
+      internalID: -6590073305461632068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_82
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 224
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f2c12c346fd6bf0800000000000000
+      internalID: -329336426848309454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_83
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 181
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fbdb1ee31f7d6f0800000000000000
+      internalID: -659793568008913037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_bosque_violeta_transparente_84
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 199
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d837fcadbcc5df0800000000000000
+      internalID: -190052943612637831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      piso_bosque_violeta_transparente_0: 3877099610584680017
+      piso_bosque_violeta_transparente_1: 4136233978981898572
+      piso_bosque_violeta_transparente_10: -8277571715046312152
+      piso_bosque_violeta_transparente_11: -14065020392460603
+      piso_bosque_violeta_transparente_12: 2300168193955532867
+      piso_bosque_violeta_transparente_13: 578568250586237657
+      piso_bosque_violeta_transparente_14: -7090709243788837069
+      piso_bosque_violeta_transparente_15: -846956804617776337
+      piso_bosque_violeta_transparente_16: 8690843007307207681
+      piso_bosque_violeta_transparente_17: -2999470557142864117
+      piso_bosque_violeta_transparente_18: -1305594111751422536
+      piso_bosque_violeta_transparente_19: -3447620644243267083
+      piso_bosque_violeta_transparente_2: 8688835026742366179
+      piso_bosque_violeta_transparente_20: 2439230298815347127
+      piso_bosque_violeta_transparente_21: -3729445078637912080
+      piso_bosque_violeta_transparente_22: -6216040626222540077
+      piso_bosque_violeta_transparente_23: 9065638072573769080
+      piso_bosque_violeta_transparente_24: -2123817876113167281
+      piso_bosque_violeta_transparente_25: 5294374188853781112
+      piso_bosque_violeta_transparente_26: -2550967083631428351
+      piso_bosque_violeta_transparente_27: 3564738828738330309
+      piso_bosque_violeta_transparente_28: -4710595638627998739
+      piso_bosque_violeta_transparente_29: -3739185222450955274
+      piso_bosque_violeta_transparente_3: 2702473185031353730
+      piso_bosque_violeta_transparente_30: -3352131442064609814
+      piso_bosque_violeta_transparente_31: -2545212377682177552
+      piso_bosque_violeta_transparente_32: -557468930263379841
+      piso_bosque_violeta_transparente_33: -4062539199018070160
+      piso_bosque_violeta_transparente_34: -7501146569626668378
+      piso_bosque_violeta_transparente_35: 5854760008336887995
+      piso_bosque_violeta_transparente_36: 6258512227616972909
+      piso_bosque_violeta_transparente_37: 1329807566932630409
+      piso_bosque_violeta_transparente_38: -8179258039285641921
+      piso_bosque_violeta_transparente_39: -4663019326667541159
+      piso_bosque_violeta_transparente_4: -9072989493318190460
+      piso_bosque_violeta_transparente_40: -2235873596414205527
+      piso_bosque_violeta_transparente_41: -2283931890328136981
+      piso_bosque_violeta_transparente_42: -8585744293227637363
+      piso_bosque_violeta_transparente_43: 944409009880036180
+      piso_bosque_violeta_transparente_44: -1792567181294067488
+      piso_bosque_violeta_transparente_45: -4369120349629578077
+      piso_bosque_violeta_transparente_46: 3931000335767357737
+      piso_bosque_violeta_transparente_47: 1147299941448979358
+      piso_bosque_violeta_transparente_48: 9123649606534391148
+      piso_bosque_violeta_transparente_49: 4580151295258868487
+      piso_bosque_violeta_transparente_5: 902933878334415056
+      piso_bosque_violeta_transparente_50: -363488195078130429
+      piso_bosque_violeta_transparente_51: 5122079430651887950
+      piso_bosque_violeta_transparente_52: -7598162673453909779
+      piso_bosque_violeta_transparente_53: 4556457976473600640
+      piso_bosque_violeta_transparente_54: 266544303728450445
+      piso_bosque_violeta_transparente_55: 7917218984671671882
+      piso_bosque_violeta_transparente_56: 6261010712230738524
+      piso_bosque_violeta_transparente_57: -6891608739589292711
+      piso_bosque_violeta_transparente_58: 4694651191320896256
+      piso_bosque_violeta_transparente_59: -5757234246659983788
+      piso_bosque_violeta_transparente_6: -3496320875936033650
+      piso_bosque_violeta_transparente_60: 5859651908970775050
+      piso_bosque_violeta_transparente_61: -417734914576472885
+      piso_bosque_violeta_transparente_62: -8475140175762699015
+      piso_bosque_violeta_transparente_63: 5535486499761458925
+      piso_bosque_violeta_transparente_64: 933057733312798041
+      piso_bosque_violeta_transparente_65: 1619165327552422390
+      piso_bosque_violeta_transparente_66: -6549958007627299165
+      piso_bosque_violeta_transparente_67: 6778807687760342312
+      piso_bosque_violeta_transparente_68: 4662343369320514324
+      piso_bosque_violeta_transparente_69: 7189735280066290594
+      piso_bosque_violeta_transparente_7: -1300026692423673038
+      piso_bosque_violeta_transparente_70: 1644721117183555677
+      piso_bosque_violeta_transparente_71: -5131627682047088745
+      piso_bosque_violeta_transparente_72: -2095315528639274835
+      piso_bosque_violeta_transparente_73: -1302699315666389180
+      piso_bosque_violeta_transparente_74: 8042437359697437647
+      piso_bosque_violeta_transparente_75: 3704384876490172661
+      piso_bosque_violeta_transparente_76: 4040918144993486584
+      piso_bosque_violeta_transparente_77: 291867805336812740
+      piso_bosque_violeta_transparente_78: -7732323578349976701
+      piso_bosque_violeta_transparente_79: 2222418004416928045
+      piso_bosque_violeta_transparente_8: -8169439910979918549
+      piso_bosque_violeta_transparente_80: -674740119512891106
+      piso_bosque_violeta_transparente_81: -6590073305461632068
+      piso_bosque_violeta_transparente_82: -329336426848309454
+      piso_bosque_violeta_transparente_83: -659793568008913037
+      piso_bosque_violeta_transparente_84: -190052943612637831
+      piso_bosque_violeta_transparente_9: 2483121056330954202
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

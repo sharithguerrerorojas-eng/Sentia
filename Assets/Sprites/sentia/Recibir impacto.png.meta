@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 4c574b9d4f0d30a428747f72bdd0db60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1419122316878968034
+    second: nova_hit_side_sprites_row_0
+  - first:
+      213: -5425141011214811767
+    second: nova_hit_side_sprites_row_1
+  - first:
+      213: -3526281317938595826
+    second: nova_hit_side_sprites_row_2
+  - first:
+      213: -4457196519338673261
+    second: nova_hit_side_sprites_row_3
+  - first:
+      213: -7732527768736420193
+    second: nova_hit_side_sprites_row_4
+  - first:
+      213: -1604456002506723939
+    second: nova_hit_side_sprites_row_5
+  - first:
+      213: 7145256270295361776
+    second: nova_hit_side_sprites_row_6
+  - first:
+      213: -3927846059226160129
+    second: nova_hit_side_sprites_row_7
+  - first:
+      213: -3918483863596252489
+    second: nova_hit_side_sprites_row_8
+  - first:
+      213: 8582810596451207499
+    second: nova_hit_side_sprites_row_9
+  - first:
+      213: 6999001686885948924
+    second: nova_hit_side_sprites_row_10
+  - first:
+      213: 5708971889954198171
+    second: nova_hit_side_sprites_row_11
+  - first:
+      213: -5191143368018049188
+    second: nova_hit_side_sprites_row_12
+  - first:
+      213: -5329269872322199275
+    second: nova_hit_side_sprites_row_13
+  - first:
+      213: -2419019552311293207
+    second: nova_hit_side_sprites_row_14
+  - first:
+      213: 5808262788001298176
+    second: nova_hit_side_sprites_row_15
+  - first:
+      213: 8082206398327910061
+    second: nova_hit_side_sprites_row_16
+  - first:
+      213: -5193982078793779773
+    second: nova_hit_side_sprites_row_17
+  - first:
+      213: 4248055962273918763
+    second: nova_hit_side_sprites_row_18
+  - first:
+      213: -5326384692402473209
+    second: nova_hit_side_sprites_row_19
+  - first:
+      213: -8273990492320070807
+    second: nova_hit_side_sprites_row_20
+  - first:
+      213: -5842146734673198798
+    second: nova_hit_side_sprites_row_21
+  - first:
+      213: 6769881205030169291
+    second: nova_hit_side_sprites_row_22
+  - first:
+      213: -5777754444131987061
+    second: nova_hit_side_sprites_row_23
+  - first:
+      213: 4505613257243013105
+    second: nova_hit_side_sprites_row_24
+  - first:
+      213: -2950509042432139011
+    second: nova_hit_side_sprites_row_25
+  - first:
+      213: 5262193875987228293
+    second: nova_hit_side_sprites_row_26
+  - first:
+      213: 2029822522683050766
+    second: nova_hit_side_sprites_row_27
+  - first:
+      213: 4329790203108569882
+    second: nova_hit_side_sprites_row_28
+  - first:
+      213: 1507342547075655779
+    second: nova_hit_side_sprites_row_29
+  - first:
+      213: -3337918260132424111
+    second: nova_hit_side_sprites_row_30
+  - first:
+      213: 6801089325665065732
+    second: nova_hit_side_sprites_row_31
+  - first:
+      213: 2663144083894994132
+    second: nova_hit_side_sprites_row_32
+  - first:
+      213: -9165179677441125424
+    second: nova_hit_side_sprites_row_33
+  - first:
+      213: 8065373001697156895
+    second: nova_hit_side_sprites_row_34
+  - first:
+      213: -8568615816365824130
+    second: nova_hit_side_sprites_row_35
+  - first:
+      213: 1872839419355886373
+    second: nova_hit_side_sprites_row_36
+  - first:
+      213: -6997619611873985224
+    second: nova_hit_side_sprites_row_37
+  - first:
+      213: -113742050638115057
+    second: nova_hit_side_sprites_row_38
+  - first:
+      213: -2107160304609992493
+    second: nova_hit_side_sprites_row_39
+  - first:
+      213: -634938292467378659
+    second: nova_hit_side_sprites_row_40
+  - first:
+      213: -3540529507871640110
+    second: nova_hit_side_sprites_row_41
+  - first:
+      213: -3472825614922157269
+    second: nova_hit_side_sprites_row_42
+  - first:
+      213: 7932878300900726655
+    second: nova_hit_side_sprites_row_43
+  - first:
+      213: 3793983438917375793
+    second: nova_hit_side_sprites_row_44
+  - first:
+      213: -5814338610683497759
+    second: nova_hit_side_sprites_row_45
+  - first:
+      213: 2416231853225177200
+    second: nova_hit_side_sprites_row_46
+  - first:
+      213: -3736530611368103649
+    second: nova_hit_side_sprites_row_47
+  - first:
+      213: 3921051941268014883
+    second: nova_hit_side_sprites_row_48
+  - first:
+      213: 7673000849153911050
+    second: nova_hit_side_sprites_row_49
+  - first:
+      213: -5477157394068140586
+    second: nova_hit_side_sprites_row_50
+  - first:
+      213: 3378959196303162875
+    second: nova_hit_side_sprites_row_51
+  - first:
+      213: 3002963981057248285
+    second: nova_hit_side_sprites_row_52
+  - first:
+      213: 2833349251190256022
+    second: nova_hit_side_sprites_row_53
+  - first:
+      213: 5263948116110145460
+    second: nova_hit_side_sprites_row_54
+  - first:
+      213: 3582641956003787786
+    second: nova_hit_side_sprites_row_55
+  - first:
+      213: -2306468622944269189
+    second: nova_hit_side_sprites_row_56
+  - first:
+      213: 1548910124446091902
+    second: nova_hit_side_sprites_row_57
+  - first:
+      213: -3302614378776720685
+    second: nova_hit_side_sprites_row_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Recibir impacto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 286
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8bfd3387af469449bf9df680a66371
+      internalID: -1092178177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recibir impacto_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 320
+        width: 324
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabd25d36922f224bae368828bf7759a
+      internalID: -1902846166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recibir impacto_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 320
+        width: 336
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f66ed8181429fb43a62ebb9cb053152
+      internalID: -1121051397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recibir impacto_3
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 320
+        width: 356
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739e0f2e715e641449bf2d90196b752a
+      internalID: -100626871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recibir impacto_4
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 320
+        width: 341
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed3184c7c12a1b4d921d6e41a3d8d1c
+      internalID: 2036805034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recibir impacto_5
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 320
+        width: 286
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0388d367e6d5064a9df70bd97ab44a4
+      internalID: 1153180805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recibir impacto_6
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 320
+        width: 290
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae32df0e9784d7e469be5179d9e83399
+      internalID: 1231262504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Recibir impacto_7
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 320
+        width: 290
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14451ee75421b094fb77ee3dbfd69300
+      internalID: -1126698992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8a92309f00047fe40a224e100115b8a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":336.0,"y":1152.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Recibir impacto_0: -1092178177
+      Recibir impacto_1: -1902846166
+      Recibir impacto_2: -1121051397
+      Recibir impacto_3: -100626871
+      Recibir impacto_4: 2036805034
+      Recibir impacto_5: 1153180805
+      Recibir impacto_6: 1231262504
+      Recibir impacto_7: -1126698992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

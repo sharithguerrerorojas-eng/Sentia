@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: 28c08ecd9c387bb49a1db56506822b4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7341533212011272700
+    second: nova_dodge_side_sprites_row_0
+  - first:
+      213: 2960103774474660699
+    second: nova_dodge_side_sprites_row_1
+  - first:
+      213: -3881512900639924441
+    second: nova_dodge_side_sprites_row_2
+  - first:
+      213: -9122940326547132345
+    second: nova_dodge_side_sprites_row_3
+  - first:
+      213: -8859512189816468774
+    second: nova_dodge_side_sprites_row_4
+  - first:
+      213: -5772388225423027913
+    second: nova_dodge_side_sprites_row_5
+  - first:
+      213: 3594293620321408374
+    second: nova_dodge_side_sprites_row_6
+  - first:
+      213: -2167406798705355358
+    second: nova_dodge_side_sprites_row_7
+  - first:
+      213: 8939715994465902973
+    second: nova_dodge_side_sprites_row_8
+  - first:
+      213: -477988572015670251
+    second: nova_dodge_side_sprites_row_9
+  - first:
+      213: -7542168486469859716
+    second: nova_dodge_side_sprites_row_10
+  - first:
+      213: 3699723796373600710
+    second: nova_dodge_side_sprites_row_11
+  - first:
+      213: 5590677182866761067
+    second: nova_dodge_side_sprites_row_12
+  - first:
+      213: 4681695108971478277
+    second: nova_dodge_side_sprites_row_13
+  - first:
+      213: 7789214306262902702
+    second: nova_dodge_side_sprites_row_14
+  - first:
+      213: -500062641060631104
+    second: nova_dodge_side_sprites_row_15
+  - first:
+      213: -5804466905860954616
+    second: nova_dodge_side_sprites_row_16
+  - first:
+      213: -687079240087156610
+    second: nova_dodge_side_sprites_row_17
+  - first:
+      213: -8682396422625014142
+    second: nova_dodge_side_sprites_row_18
+  - first:
+      213: -2412596000865551114
+    second: nova_dodge_side_sprites_row_19
+  - first:
+      213: 2960095051813031501
+    second: nova_dodge_side_sprites_row_20
+  - first:
+      213: 7390673334926247064
+    second: nova_dodge_side_sprites_row_21
+  - first:
+      213: 5982183149768604512
+    second: nova_dodge_side_sprites_row_22
+  - first:
+      213: -3394679647550999294
+    second: nova_dodge_side_sprites_row_23
+  - first:
+      213: -8982452769532715777
+    second: nova_dodge_side_sprites_row_24
+  - first:
+      213: 336790998691323966
+    second: nova_dodge_side_sprites_row_25
+  - first:
+      213: -4072076364197977712
+    second: nova_dodge_side_sprites_row_26
+  - first:
+      213: -632325219917779203
+    second: nova_dodge_side_sprites_row_27
+  - first:
+      213: 2892317279631064424
+    second: nova_dodge_side_sprites_row_28
+  - first:
+      213: 1765708407366850299
+    second: nova_dodge_side_sprites_row_29
+  - first:
+      213: 2217197310540055323
+    second: nova_dodge_side_sprites_row_30
+  - first:
+      213: 7730643376210928993
+    second: nova_dodge_side_sprites_row_31
+  - first:
+      213: 6196489664663186372
+    second: nova_dodge_side_sprites_row_32
+  - first:
+      213: -7895886830636638408
+    second: nova_dodge_side_sprites_row_33
+  - first:
+      213: -8319088204453911672
+    second: nova_dodge_side_sprites_row_34
+  - first:
+      213: -79253173904886973
+    second: nova_dodge_side_sprites_row_35
+  - first:
+      213: -5666855221998030519
+    second: nova_dodge_side_sprites_row_36
+  - first:
+      213: 4972688353609088070
+    second: nova_dodge_side_sprites_row_37
+  - first:
+      213: 6688042459408399752
+    second: nova_dodge_side_sprites_row_38
+  - first:
+      213: -1885139583790223085
+    second: nova_dodge_side_sprites_row_39
+  - first:
+      213: 8358803407266085205
+    second: nova_dodge_side_sprites_row_40
+  - first:
+      213: 5399196547531255064
+    second: nova_dodge_side_sprites_row_41
+  - first:
+      213: -8528338486635251201
+    second: nova_dodge_side_sprites_row_42
+  - first:
+      213: 5428926660591991287
+    second: nova_dodge_side_sprites_row_43
+  - first:
+      213: -3491944809092724691
+    second: nova_dodge_side_sprites_row_44
+  - first:
+      213: 1461395972465908388
+    second: nova_dodge_side_sprites_row_45
+  - first:
+      213: 4461028574007526750
+    second: nova_dodge_side_sprites_row_46
+  - first:
+      213: -1573007230834216238
+    second: nova_dodge_side_sprites_row_47
+  - first:
+      213: -7196705801727981076
+    second: nova_dodge_side_sprites_row_48
+  - first:
+      213: -824949751416156777
+    second: nova_dodge_side_sprites_row_49
+  - first:
+      213: -753312369033465216
+    second: nova_dodge_side_sprites_row_50
+  - first:
+      213: -1943734251234822253
+    second: nova_dodge_side_sprites_row_51
+  - first:
+      213: 7069259738640774785
+    second: nova_dodge_side_sprites_row_52
+  - first:
+      213: -5717820110789442914
+    second: nova_dodge_side_sprites_row_53
+  - first:
+      213: -1830048175512967415
+    second: nova_dodge_side_sprites_row_54
+  - first:
+      213: 3836119997060186573
+    second: nova_dodge_side_sprites_row_55
+  - first:
+      213: 1968917887941684213
+    second: nova_dodge_side_sprites_row_56
+  - first:
+      213: -2493288301715466634
+    second: nova_dodge_side_sprites_row_57
+  - first:
+      213: -6425796621611485579
+    second: nova_dodge_side_sprites_row_58
+  - first:
+      213: -2244874403421566877
+    second: nova_dodge_side_sprites_row_59
+  - first:
+      213: 6500691608646730884
+    second: nova_dodge_side_sprites_row_60
+  - first:
+      213: 7238951750900424070
+    second: nova_dodge_side_sprites_row_61
+  - first:
+      213: -310580198572221699
+    second: nova_dodge_side_sprites_row_62
+  - first:
+      213: -534724183616323595
+    second: nova_dodge_side_sprites_row_63
+  - first:
+      213: 9176906237436479139
+    second: nova_dodge_side_sprites_row_64
+  - first:
+      213: 8491574167402913542
+    second: nova_dodge_side_sprites_row_65
+  - first:
+      213: 3196408157898461367
+    second: nova_dodge_side_sprites_row_66
+  - first:
+      213: 4175308479237834060
+    second: nova_dodge_side_sprites_row_67
+  - first:
+      213: -7779923218109901562
+    second: nova_dodge_side_sprites_row_68
+  - first:
+      213: -2050206838562794769
+    second: nova_dodge_side_sprites_row_69
+  - first:
+      213: 5369278784848695781
+    second: nova_dodge_side_sprites_row_70
+  - first:
+      213: 5761928730667656827
+    second: nova_dodge_side_sprites_row_71
+  - first:
+      213: -5721971516702372789
+    second: nova_dodge_side_sprites_row_72
+  - first:
+      213: 4499468505751660020
+    second: nova_dodge_side_sprites_row_73
+  - first:
+      213: 1929911053295144841
+    second: nova_dodge_side_sprites_row_74
+  - first:
+      213: -934224998332766758
+    second: nova_dodge_side_sprites_row_75
+  - first:
+      213: 1172090790319589506
+    second: nova_dodge_side_sprites_row_76
+  - first:
+      213: -6734254722098044013
+    second: nova_dodge_side_sprites_row_77
+  - first:
+      213: -2227269544998172286
+    second: nova_dodge_side_sprites_row_78
+  - first:
+      213: -3402642568682398065
+    second: nova_dodge_side_sprites_row_79
+  - first:
+      213: -4271250084033666333
+    second: nova_dodge_side_sprites_row_80
+  - first:
+      213: -186971757510093909
+    second: nova_dodge_side_sprites_row_81
+  - first:
+      213: -1587382152960245929
+    second: nova_dodge_side_sprites_row_82
+  - first:
+      213: -4726875042559558552
+    second: nova_dodge_side_sprites_row_83
+  - first:
+      213: -7217086846391727923
+    second: nova_dodge_side_sprites_row_84
+  - first:
+      213: -5305326018070304225
+    second: nova_dodge_side_sprites_row_85
+  - first:
+      213: -6786937031559791055
+    second: nova_dodge_side_sprites_row_86
+  - first:
+      213: 1610307553578686301
+    second: nova_dodge_side_sprites_row_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Esquivar_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 307
+        width: 254
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c0b27838504246876707d102b3820
+      internalID: 418849016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esquivar_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 301
+        width: 305
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28af870911c5b3469ea28416977ff9e
+      internalID: 2131775751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esquivar_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 301
+        width: 334
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a29f9c9fb42c1e46a312cf76681bc73
+      internalID: -1568411258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esquivar_3
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 298
+        width: 361
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc1f0fe8df9ad46a6528ec7c6dc07c
+      internalID: 557493780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esquivar_4
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 295
+        width: 375
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41c55fcb9d2cd84bb07b41bf69275a0
+      internalID: -1263632568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esquivar_5
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 292
+        width: 280
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d668868027250b7499c445b91ccfc4b5
+      internalID: 1012010287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esquivar_6
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 295
+        width: 268
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8ad34a2e44c7e4c8f9daf8833eeefc
+      internalID: 521532086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esquivar_7
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 292
+        width: 290
+        height: 505
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86af8ba3afcba894b8f6bee84f998453
+      internalID: 688478713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 747716c6b17f9f24581b3ff8f36231a9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":336.0,"y":1152.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Esquivar_0: 418849016
+      Esquivar_1: 2131775751
+      Esquivar_2: -1568411258
+      Esquivar_3: 557493780
+      Esquivar_4: -1263632568
+      Esquivar_5: 1012010287
+      Esquivar_6: 521532086
+      Esquivar_7: 688478713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

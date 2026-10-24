@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: c255ed81a33e1054e870a3ad5ec13b51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1522670565596345577
+    second: celda_con_golem_sentado_0
+  - first:
+      213: -7152473341888575763
+    second: celda_con_golem_sentado_1
+  - first:
+      213: 785168331727967045
+    second: celda_con_golem_sentado_2
+  - first:
+      213: -5629130310514612208
+    second: celda_con_golem_sentado_3
+  - first:
+      213: 3637525577310742685
+    second: celda_con_golem_sentado_4
+  - first:
+      213: -7341996199939472784
+    second: celda_con_golem_sentado_5
+  - first:
+      213: 6694017571893677875
+    second: celda_con_golem_sentado_6
+  - first:
+      213: -1836461884742332185
+    second: celda_con_golem_sentado_7
+  - first:
+      213: -6162073976465799347
+    second: celda_con_golem_sentado_8
+  - first:
+      213: 4131005682630668743
+    second: celda_con_golem_sentado_9
+  - first:
+      213: 26147724865659881
+    second: celda_con_golem_sentado_10
+  - first:
+      213: 2282582730223067789
+    second: celda_con_golem_sentado_11
+  - first:
+      213: 7135628483232560476
+    second: celda_con_golem_sentado_12
+  - first:
+      213: 3264975179107437357
+    second: celda_con_golem_sentado_13
+  - first:
+      213: 655429998487232093
+    second: celda_con_golem_sentado_14
+  - first:
+      213: -5454576400636930150
+    second: celda_con_golem_sentado_15
+  - first:
+      213: 8553041885338786870
+    second: celda_con_golem_sentado_16
+  - first:
+      213: -5030079343687003830
+    second: celda_con_golem_sentado_17
+  - first:
+      213: -2948856689403180206
+    second: celda_con_golem_sentado_18
+  - first:
+      213: -870860623113373501
+    second: celda_con_golem_sentado_19
+  - first:
+      213: -1617338947507247026
+    second: celda_con_golem_sentado_20
+  - first:
+      213: 6129696433591827543
+    second: celda_con_golem_sentado_21
+  - first:
+      213: 5177897930446803096
+    second: celda_con_golem_sentado_22
+  - first:
+      213: 4325445622316003765
+    second: celda_con_golem_sentado_23
+  - first:
+      213: -1970257005010394559
+    second: celda_con_golem_sentado_24
+  - first:
+      213: -2463973153958767772
+    second: celda_con_golem_sentado_25
+  - first:
+      213: 1277278835016007071
+    second: celda_con_golem_sentado_26
+  - first:
+      213: -2746995295796637921
+    second: celda_con_golem_sentado_27
+  - first:
+      213: 7032448354214917352
+    second: celda_con_golem_sentado_28
+  - first:
+      213: 7946364712205458727
+    second: celda_con_golem_sentado_29
+  - first:
+      213: 1960834433682482470
+    second: celda_con_golem_sentado_30
+  - first:
+      213: -7346631160875917931
+    second: celda_con_golem_sentado_31
+  - first:
+      213: 303568656343800069
+    second: celda_con_golem_sentado_32
+  - first:
+      213: 1109758964336835962
+    second: celda_con_golem_sentado_33
+  - first:
+      213: -7973534305936255253
+    second: celda_con_golem_sentado_34
+  - first:
+      213: 5602817365209084078
+    second: celda_con_golem_sentado_35
+  - first:
+      213: 475945861240026036
+    second: celda_con_golem_sentado_36
+  - first:
+      213: -263202288453585254
+    second: celda_con_golem_sentado_37
+  - first:
+      213: 4863597803277260510
+    second: celda_con_golem_sentado_38
+  - first:
+      213: -2585791826884531465
+    second: celda_con_golem_sentado_39
+  - first:
+      213: 7957185633030821411
+    second: celda_con_golem_sentado_40
+  - first:
+      213: -8320709226111397072
+    second: celda_con_golem_sentado_41
+  - first:
+      213: 7556162185709474561
+    second: celda_con_golem_sentado_42
+  - first:
+      213: -1068754099404160113
+    second: celda_con_golem_sentado_43
+  - first:
+      213: -1623373994567243476
+    second: celda_con_golem_sentado_44
+  - first:
+      213: 5661500876941835203
+    second: celda_con_golem_sentado_45
+  - first:
+      213: -1522420500897546751
+    second: celda_con_golem_sentado_46
+  - first:
+      213: 3704800109138294731
+    second: celda_con_golem_sentado_47
+  - first:
+      213: 260451251071949797
+    second: celda_con_golem_sentado_48
+  - first:
+      213: 5734999927862131080
+    second: celda_con_golem_sentado_49
+  - first:
+      213: 1262835626923657399
+    second: celda_con_golem_sentado_50
+  - first:
+      213: -9155798767446051652
+    second: celda_con_golem_sentado_51
+  - first:
+      213: -6651043626886537308
+    second: celda_con_golem_sentado_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: celda_con_golem_sentado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2560
+        height: 1440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4305cdfcc912510800000000000000
+      internalID: 1522670565596345577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f0ae0d70616ed4f4e9ae2f03f23d54a0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":2560.0,"y":1440.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      celda_con_golem_sentado_0: 1522670565596345577
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

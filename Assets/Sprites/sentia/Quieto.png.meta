@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: 3fdc467c2aa6e644c925d996d7e32e5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4385369967795055789
+    second: personaje_morado_animacion_respiracion_0
+  - first:
+      213: -541241325099918613
+    second: personaje_morado_animacion_respiracion_1
+  - first:
+      213: -6643619420265118130
+    second: personaje_morado_animacion_respiracion_2
+  - first:
+      213: 547525857702511455
+    second: personaje_morado_animacion_respiracion_3
+  - first:
+      213: 526419680303903969
+    second: personaje_morado_animacion_respiracion_4
+  - first:
+      213: -9063263208880812856
+    second: personaje_morado_animacion_respiracion_5
+  - first:
+      213: 3071479520488940115
+    second: personaje_morado_animacion_respiracion_6
+  - first:
+      213: 4324233817275157462
+    second: personaje_morado_animacion_respiracion_7
+  - first:
+      213: -5877882947546468265
+    second: personaje_morado_animacion_respiracion_8
+  - first:
+      213: -8402593242816180065
+    second: personaje_morado_animacion_respiracion_9
+  - first:
+      213: -3180784383534271299
+    second: personaje_morado_animacion_respiracion_10
+  - first:
+      213: -9124164964723041226
+    second: personaje_morado_animacion_respiracion_11
+  - first:
+      213: -8395913981174159329
+    second: personaje_morado_animacion_respiracion_12
+  - first:
+      213: 6562837603648688045
+    second: personaje_morado_animacion_respiracion_13
+  - first:
+      213: -6111203482477878417
+    second: personaje_morado_animacion_respiracion_14
+  - first:
+      213: -8685174597100766743
+    second: personaje_morado_animacion_respiracion_15
+  - first:
+      213: 2662173567439268885
+    second: personaje_morado_animacion_respiracion_16
+  - first:
+      213: 1120177869125511321
+    second: personaje_morado_animacion_respiracion_17
+  - first:
+      213: -5726558073404741798
+    second: personaje_morado_animacion_respiracion_18
+  - first:
+      213: 3062050100590387914
+    second: personaje_morado_animacion_respiracion_19
+  - first:
+      213: 5979248593057215544
+    second: personaje_morado_animacion_respiracion_20
+  - first:
+      213: -2683917580722243948
+    second: personaje_morado_animacion_respiracion_21
+  - first:
+      213: 7197445022595001087
+    second: personaje_morado_animacion_respiracion_22
+  - first:
+      213: 3262434355748748216
+    second: personaje_morado_animacion_respiracion_23
+  - first:
+      213: -9175351027768302422
+    second: personaje_morado_animacion_respiracion_24
+  - first:
+      213: -2202543133907749419
+    second: personaje_morado_animacion_respiracion_25
+  - first:
+      213: -5277342684653434390
+    second: personaje_morado_animacion_respiracion_26
+  - first:
+      213: 4140890906427199479
+    second: personaje_morado_animacion_respiracion_27
+  - first:
+      213: 3155848849847428131
+    second: personaje_morado_animacion_respiracion_28
+  - first:
+      213: 3160518574182133371
+    second: personaje_morado_animacion_respiracion_29
+  - first:
+      213: -6783126925941227418
+    second: personaje_morado_animacion_respiracion_30
+  - first:
+      213: -2078098661253219962
+    second: personaje_morado_animacion_respiracion_31
+  - first:
+      213: 7547994794229549572
+    second: personaje_morado_animacion_respiracion_32
+  - first:
+      213: 2301150791749693953
+    second: personaje_morado_animacion_respiracion_33
+  - first:
+      213: -8040675700069502048
+    second: personaje_morado_animacion_respiracion_34
+  - first:
+      213: -287037428317896650
+    second: personaje_morado_animacion_respiracion_35
+  - first:
+      213: -9004241640241106963
+    second: personaje_morado_animacion_respiracion_36
+  - first:
+      213: 8951077337570148569
+    second: personaje_morado_animacion_respiracion_37
+  - first:
+      213: -8082192801415751146
+    second: personaje_morado_animacion_respiracion_38
+  - first:
+      213: 4921578503179620896
+    second: personaje_morado_animacion_respiracion_39
+  - first:
+      213: 2517155778202993211
+    second: personaje_morado_animacion_respiracion_40
+  - first:
+      213: -4790255491266300450
+    second: personaje_morado_animacion_respiracion_41
+  - first:
+      213: 5627653514311454195
+    second: personaje_morado_animacion_respiracion_42
+  - first:
+      213: 943047309441791686
+    second: personaje_morado_animacion_respiracion_43
+  - first:
+      213: -5327564877605978326
+    second: personaje_morado_animacion_respiracion_44
+  - first:
+      213: 7616002580683652071
+    second: personaje_morado_animacion_respiracion_45
+  - first:
+      213: 8787868798527108161
+    second: personaje_morado_animacion_respiracion_46
+  - first:
+      213: -4491725568777361643
+    second: personaje_morado_animacion_respiracion_47
+  - first:
+      213: 7529125403239544606
+    second: personaje_morado_animacion_respiracion_48
+  - first:
+      213: 6999093188149034426
+    second: personaje_morado_animacion_respiracion_49
+  - first:
+      213: 2871705869013351270
+    second: personaje_morado_animacion_respiracion_50
+  - first:
+      213: -8638031851116747249
+    second: personaje_morado_animacion_respiracion_51
+  - first:
+      213: 1715896966294492919
+    second: personaje_morado_animacion_respiracion_52
+  - first:
+      213: 4529037261760706960
+    second: personaje_morado_animacion_respiracion_53
+  - first:
+      213: 4953791995605423727
+    second: personaje_morado_animacion_respiracion_54
+  - first:
+      213: 9105611758194385668
+    second: personaje_morado_animacion_respiracion_55
+  - first:
+      213: -5219176730776045176
+    second: personaje_morado_animacion_respiracion_56
+  - first:
+      213: 6002847996467501545
+    second: personaje_morado_animacion_respiracion_57
+  - first:
+      213: 2240942122879515243
+    second: personaje_morado_animacion_respiracion_58
+  - first:
+      213: 3336900335719102871
+    second: personaje_morado_animacion_respiracion_59
+  - first:
+      213: -6307913492320815297
+    second: personaje_morado_animacion_respiracion_60
+  - first:
+      213: 6547172385002918268
+    second: personaje_morado_animacion_respiracion_61
+  - first:
+      213: 7982308617310635003
+    second: personaje_morado_animacion_respiracion_62
+  - first:
+      213: -3208922338390589009
+    second: personaje_morado_animacion_respiracion_63
+  - first:
+      213: 4509047044837595295
+    second: personaje_morado_animacion_respiracion_64
+  - first:
+      213: -2427247731362570117
+    second: personaje_morado_animacion_respiracion_65
+  - first:
+      213: 4411254412622865490
+    second: personaje_morado_animacion_respiracion_66
+  - first:
+      213: -6973853103386351531
+    second: personaje_morado_animacion_respiracion_67
+  - first:
+      213: -6566207876330246375
+    second: personaje_morado_animacion_respiracion_68
+  - first:
+      213: 6731683671427219769
+    second: personaje_morado_animacion_respiracion_69
+  - first:
+      213: -607892827578197687
+    second: personaje_morado_animacion_respiracion_70
+  - first:
+      213: -4688237415874647632
+    second: personaje_morado_animacion_respiracion_71
+  - first:
+      213: -982268276802601805
+    second: personaje_morado_animacion_respiracion_72
+  - first:
+      213: -7755293845171883834
+    second: personaje_morado_animacion_respiracion_73
+  - first:
+      213: -5956249904182425194
+    second: personaje_morado_animacion_respiracion_74
+  - first:
+      213: 1372189846040829512
+    second: personaje_morado_animacion_respiracion_75
+  - first:
+      213: 8999686544117174097
+    second: personaje_morado_animacion_respiracion_76
+  - first:
+      213: 7615912154754385815
+    second: personaje_morado_animacion_respiracion_77
+  - first:
+      213: 1014010600812892096
+    second: personaje_morado_animacion_respiracion_78
+  - first:
+      213: 5721352649543979538
+    second: personaje_morado_animacion_respiracion_79
+  - first:
+      213: 632986052899025327
+    second: personaje_morado_animacion_respiracion_80
+  - first:
+      213: -6901689421894159353
+    second: personaje_morado_animacion_respiracion_81
+  - first:
+      213: -2325267529900309483
+    second: personaje_morado_animacion_respiracion_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Quieto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 425
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f38391c6eb03247a2599dceb921e2d
+      internalID: -1727970966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quieto_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 420
+        width: 425
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1b969c4527a534a8a76cf84e75ac79
+      internalID: 1275663866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quieto_2
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 420
+        width: 425
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83585614aefbd09408f0f21b199fb20d
+      internalID: 1780307987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quieto_3
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 420
+        width: 425
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4031b6dc8c57b04ea1d68498302c888
+      internalID: -2007848128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quieto_4
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 420
+        width: 425
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdf97274f9dc6d43855b4d42be9cfc7
+      internalID: -1514035212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quieto_5
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 420
+        width: 425
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dff09d116061f428dc66e2be787a50
+      internalID: 278001167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ee81a83b47aea36448a0c4fc5efe9bf2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":425.0,"y":1440.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":1.0,"y":1.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Quieto_0: -1727970966
+      Quieto_1: 1275663866
+      Quieto_2: 1780307987
+      Quieto_3: -2007848128
+      Quieto_4: -1514035212
+      Quieto_5: 278001167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: cd82a77694c11804899832332213eea5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3505172667423675037
+    second: magic_projectile_vfx_row_0
+  - first:
+      213: -3021048627482295656
+    second: magic_projectile_vfx_row_1
+  - first:
+      213: 6584950759987722430
+    second: magic_projectile_vfx_row_2
+  - first:
+      213: -135315600124450849
+    second: magic_projectile_vfx_row_3
+  - first:
+      213: -6617126612673435194
+    second: magic_projectile_vfx_row_4
+  - first:
+      213: 1213776962204216590
+    second: magic_projectile_vfx_row_5
+  - first:
+      213: -1244229448440332638
+    second: magic_projectile_vfx_row_6
+  - first:
+      213: -4883146490630950104
+    second: magic_projectile_vfx_row_7
+  - first:
+      213: -2989812861271374624
+    second: magic_projectile_vfx_row_8
+  - first:
+      213: 8195683850068861561
+    second: magic_projectile_vfx_row_9
+  - first:
+      213: -4047460499044562508
+    second: magic_projectile_vfx_row_10
+  - first:
+      213: 8736602226195571464
+    second: magic_projectile_vfx_row_11
+  - first:
+      213: 1990432677677590315
+    second: magic_projectile_vfx_row_12
+  - first:
+      213: -538721762792835659
+    second: magic_projectile_vfx_row_13
+  - first:
+      213: 6349328762100609584
+    second: magic_projectile_vfx_row_14
+  - first:
+      213: -677577546979553813
+    second: magic_projectile_vfx_row_15
+  - first:
+      213: -8864734825193210782
+    second: magic_projectile_vfx_row_16
+  - first:
+      213: -5201942697774374395
+    second: magic_projectile_vfx_row_17
+  - first:
+      213: -3318737579727719305
+    second: magic_projectile_vfx_row_18
+  - first:
+      213: -2451102812796454613
+    second: magic_projectile_vfx_row_19
+  - first:
+      213: 624603677750023360
+    second: magic_projectile_vfx_row_20
+  - first:
+      213: -295868068253839639
+    second: magic_projectile_vfx_row_21
+  - first:
+      213: -4707350448303407002
+    second: magic_projectile_vfx_row_22
+  - first:
+      213: -1863998581751567991
+    second: magic_projectile_vfx_row_23
+  - first:
+      213: 8297429721837380095
+    second: magic_projectile_vfx_row_24
+  - first:
+      213: -2648527225652500324
+    second: magic_projectile_vfx_row_25
+  - first:
+      213: -419517005209253524
+    second: magic_projectile_vfx_row_26
+  - first:
+      213: -910357635679385716
+    second: magic_projectile_vfx_row_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Ataque m\xE1gico_0"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 434
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632e51b5f45d4f342bcae9c45533280e
+      internalID: -1981638890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ataque m\xE1gico_1"
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 431
+        width: 239
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407193f0b3448114abb7a158b715c881
+      internalID: -820148130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ataque m\xE1gico_2"
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 434
+        width: 293
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76574f790b9b2f41b36f064479dd326
+      internalID: -550974844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ataque m\xE1gico_3"
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 431
+        width: 353
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dafd53ec9833148a6027622bd20778
+      internalID: 580164274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ataque m\xE1gico_4"
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 409
+        width: 379
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ddd4404cc6ad94297c2952e4df47b0
+      internalID: -405486829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ataque m\xE1gico_5"
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 440
+        width: 376
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb4782febe292b49b6953ed5f067559
+      internalID: 1578380581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ataque m\xE1gico_6"
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 427
+        width: 238
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055175cc2f400d741bd9160498be311c
+      internalID: 549542726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ataque m\xE1gico_7"
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 452
+        width: 255
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aebe0e557f3d1043ab1180142531513
+      internalID: -1087297386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a0314b4f896e22438d6f98503a6326c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":336.0,"y":1152.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Ataque m\xE1gico_0": -1981638890
+      "Ataque m\xE1gico_1": -820148130
+      "Ataque m\xE1gico_2": -550974844
+      "Ataque m\xE1gico_3": 580164274
+      "Ataque m\xE1gico_4": -405486829
+      "Ataque m\xE1gico_5": 1578380581
+      "Ataque m\xE1gico_6": 549542726
+      "Ataque m\xE1gico_7": -1087297386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

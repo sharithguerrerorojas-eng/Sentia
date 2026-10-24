@@ -1,0 +1,3825 @@
+fileFormatVersion: 2
+guid: 200407a51b0945c4a91c26fd67f2dcc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2272350374441883058
+    second: piso_jardin_alegria_oscuro_0
+  - first:
+      213: 1331990097132747311
+    second: piso_jardin_alegria_oscuro_1
+  - first:
+      213: -1750022086363602406
+    second: piso_jardin_alegria_oscuro_2
+  - first:
+      213: 4165838456639526221
+    second: piso_jardin_alegria_oscuro_3
+  - first:
+      213: 6702608997300091046
+    second: piso_jardin_alegria_oscuro_4
+  - first:
+      213: 5640400047969067213
+    second: piso_jardin_alegria_oscuro_5
+  - first:
+      213: -2663734345600516969
+    second: piso_jardin_alegria_oscuro_6
+  - first:
+      213: -3732236284069873028
+    second: piso_jardin_alegria_oscuro_7
+  - first:
+      213: -8638021281138068825
+    second: piso_jardin_alegria_oscuro_8
+  - first:
+      213: 6585114152144930437
+    second: piso_jardin_alegria_oscuro_9
+  - first:
+      213: 746394240762348518
+    second: piso_jardin_alegria_oscuro_10
+  - first:
+      213: 5871281972194586738
+    second: piso_jardin_alegria_oscuro_11
+  - first:
+      213: -5065148672538127698
+    second: piso_jardin_alegria_oscuro_12
+  - first:
+      213: 5801554651095744828
+    second: piso_jardin_alegria_oscuro_13
+  - first:
+      213: 4311386568305126500
+    second: piso_jardin_alegria_oscuro_14
+  - first:
+      213: -5032163859627748478
+    second: piso_jardin_alegria_oscuro_15
+  - first:
+      213: 7975406395750181213
+    second: piso_jardin_alegria_oscuro_16
+  - first:
+      213: -2460631676231024241
+    second: piso_jardin_alegria_oscuro_17
+  - first:
+      213: 5492664455309599584
+    second: piso_jardin_alegria_oscuro_18
+  - first:
+      213: 4257825900362884662
+    second: piso_jardin_alegria_oscuro_19
+  - first:
+      213: 338459169184822865
+    second: piso_jardin_alegria_oscuro_20
+  - first:
+      213: -42683613411392076
+    second: piso_jardin_alegria_oscuro_21
+  - first:
+      213: -485064513767787138
+    second: piso_jardin_alegria_oscuro_22
+  - first:
+      213: 646853836219254418
+    second: piso_jardin_alegria_oscuro_23
+  - first:
+      213: 8182256981071136942
+    second: piso_jardin_alegria_oscuro_24
+  - first:
+      213: -8667731474279265488
+    second: piso_jardin_alegria_oscuro_25
+  - first:
+      213: 4891501362011242752
+    second: piso_jardin_alegria_oscuro_26
+  - first:
+      213: -6976607740655983302
+    second: piso_jardin_alegria_oscuro_27
+  - first:
+      213: 3105638227989706768
+    second: piso_jardin_alegria_oscuro_28
+  - first:
+      213: -6113011683427836500
+    second: piso_jardin_alegria_oscuro_29
+  - first:
+      213: 8048692848127677928
+    second: piso_jardin_alegria_oscuro_30
+  - first:
+      213: -3786163398414314048
+    second: piso_jardin_alegria_oscuro_31
+  - first:
+      213: 1379546289040650368
+    second: piso_jardin_alegria_oscuro_32
+  - first:
+      213: 4666110578724076228
+    second: piso_jardin_alegria_oscuro_33
+  - first:
+      213: 5671340198259859256
+    second: piso_jardin_alegria_oscuro_34
+  - first:
+      213: 8477440644436689089
+    second: piso_jardin_alegria_oscuro_35
+  - first:
+      213: -716081523493683093
+    second: piso_jardin_alegria_oscuro_36
+  - first:
+      213: -4271746662651607056
+    second: piso_jardin_alegria_oscuro_37
+  - first:
+      213: -5983891551539768288
+    second: piso_jardin_alegria_oscuro_38
+  - first:
+      213: -3694454077371149843
+    second: piso_jardin_alegria_oscuro_39
+  - first:
+      213: -4511138861174569630
+    second: piso_jardin_alegria_oscuro_40
+  - first:
+      213: -7371169557998335899
+    second: piso_jardin_alegria_oscuro_41
+  - first:
+      213: -6935399623336856025
+    second: piso_jardin_alegria_oscuro_42
+  - first:
+      213: -2461934402938021920
+    second: piso_jardin_alegria_oscuro_43
+  - first:
+      213: 1279217610476287680
+    second: piso_jardin_alegria_oscuro_44
+  - first:
+      213: 5954375263236151593
+    second: piso_jardin_alegria_oscuro_45
+  - first:
+      213: 6496280917138553688
+    second: piso_jardin_alegria_oscuro_46
+  - first:
+      213: -7659117395327472349
+    second: piso_jardin_alegria_oscuro_47
+  - first:
+      213: 6923984558592636159
+    second: piso_jardin_alegria_oscuro_48
+  - first:
+      213: 6987086348673388711
+    second: piso_jardin_alegria_oscuro_49
+  - first:
+      213: -6840915713706354706
+    second: piso_jardin_alegria_oscuro_50
+  - first:
+      213: -2421925352352604829
+    second: piso_jardin_alegria_oscuro_51
+  - first:
+      213: -3754826084254471032
+    second: piso_jardin_alegria_oscuro_52
+  - first:
+      213: -2497158650489355135
+    second: piso_jardin_alegria_oscuro_53
+  - first:
+      213: 5045064891955393854
+    second: piso_jardin_alegria_oscuro_54
+  - first:
+      213: 2384586841611245937
+    second: piso_jardin_alegria_oscuro_55
+  - first:
+      213: 6567513093770280691
+    second: piso_jardin_alegria_oscuro_56
+  - first:
+      213: 6815047316476411336
+    second: piso_jardin_alegria_oscuro_57
+  - first:
+      213: -4869152696493927620
+    second: piso_jardin_alegria_oscuro_58
+  - first:
+      213: 4080293285517051267
+    second: piso_jardin_alegria_oscuro_59
+  - first:
+      213: -1901099122418526648
+    second: piso_jardin_alegria_oscuro_60
+  - first:
+      213: 6958830022807690655
+    second: piso_jardin_alegria_oscuro_61
+  - first:
+      213: -4646211800290127786
+    second: piso_jardin_alegria_oscuro_62
+  - first:
+      213: -6224327502615500341
+    second: piso_jardin_alegria_oscuro_63
+  - first:
+      213: 6363671139122917180
+    second: piso_jardin_alegria_oscuro_64
+  - first:
+      213: 2247607207391887098
+    second: piso_jardin_alegria_oscuro_65
+  - first:
+      213: 477470577583916528
+    second: piso_jardin_alegria_oscuro_66
+  - first:
+      213: -7396942509831051306
+    second: piso_jardin_alegria_oscuro_67
+  - first:
+      213: -1111078014343716160
+    second: piso_jardin_alegria_oscuro_68
+  - first:
+      213: 2103762488367937538
+    second: piso_jardin_alegria_oscuro_69
+  - first:
+      213: -8258660204312574204
+    second: piso_jardin_alegria_oscuro_70
+  - first:
+      213: -3829399390456362312
+    second: piso_jardin_alegria_oscuro_71
+  - first:
+      213: 6990363068604690101
+    second: piso_jardin_alegria_oscuro_72
+  - first:
+      213: 631352304456195384
+    second: piso_jardin_alegria_oscuro_73
+  - first:
+      213: 7955127223536253751
+    second: piso_jardin_alegria_oscuro_74
+  - first:
+      213: 108574810719635210
+    second: piso_jardin_alegria_oscuro_75
+  - first:
+      213: -2472167149350417291
+    second: piso_jardin_alegria_oscuro_76
+  - first:
+      213: 7288901322865426000
+    second: piso_jardin_alegria_oscuro_77
+  - first:
+      213: -7465717660025040128
+    second: piso_jardin_alegria_oscuro_78
+  - first:
+      213: 6299703243842835522
+    second: piso_jardin_alegria_oscuro_79
+  - first:
+      213: 1738896368531199596
+    second: piso_jardin_alegria_oscuro_80
+  - first:
+      213: 2965717824810961153
+    second: piso_jardin_alegria_oscuro_81
+  - first:
+      213: 6070079034727210719
+    second: piso_jardin_alegria_oscuro_82
+  - first:
+      213: -6468360979394461751
+    second: piso_jardin_alegria_oscuro_83
+  - first:
+      213: 2969426658413930921
+    second: piso_jardin_alegria_oscuro_84
+  - first:
+      213: -6247938851011381466
+    second: piso_jardin_alegria_oscuro_85
+  - first:
+      213: 764923149607303100
+    second: piso_jardin_alegria_oscuro_86
+  - first:
+      213: 3376085567860601211
+    second: piso_jardin_alegria_oscuro_87
+  - first:
+      213: -1503455696890613485
+    second: piso_jardin_alegria_oscuro_88
+  - first:
+      213: -818586341173085209
+    second: piso_jardin_alegria_oscuro_89
+  - first:
+      213: 483634662394789789
+    second: piso_jardin_alegria_oscuro_90
+  - first:
+      213: 8781120246932944376
+    second: piso_jardin_alegria_oscuro_91
+  - first:
+      213: 8400873870954162460
+    second: piso_jardin_alegria_oscuro_92
+  - first:
+      213: 2163126974857376450
+    second: piso_jardin_alegria_oscuro_93
+  - first:
+      213: 8842600138339135886
+    second: piso_jardin_alegria_oscuro_94
+  - first:
+      213: -8894353552530312188
+    second: piso_jardin_alegria_oscuro_95
+  - first:
+      213: -2852153702323058154
+    second: piso_jardin_alegria_oscuro_96
+  - first:
+      213: -2164950128753621950
+    second: piso_jardin_alegria_oscuro_97
+  - first:
+      213: 7508281049694224508
+    second: piso_jardin_alegria_oscuro_98
+  - first:
+      213: 2367061154593487280
+    second: piso_jardin_alegria_oscuro_99
+  - first:
+      213: -1733598925849287703
+    second: piso_jardin_alegria_oscuro_100
+  - first:
+      213: -3244202782486886152
+    second: piso_jardin_alegria_oscuro_101
+  - first:
+      213: 1936382814572364411
+    second: piso_jardin_alegria_oscuro_102
+  - first:
+      213: 6032221697610345613
+    second: piso_jardin_alegria_oscuro_103
+  - first:
+      213: -2589305871700615495
+    second: piso_jardin_alegria_oscuro_104
+  - first:
+      213: 6428983648636527463
+    second: piso_jardin_alegria_oscuro_105
+  - first:
+      213: 6977188611434234282
+    second: piso_jardin_alegria_oscuro_106
+  - first:
+      213: 3975116345546998855
+    second: piso_jardin_alegria_oscuro_107
+  - first:
+      213: 6621474030709980848
+    second: piso_jardin_alegria_oscuro_108
+  - first:
+      213: 2998749316391573585
+    second: piso_jardin_alegria_oscuro_109
+  - first:
+      213: 4407042364017950135
+    second: piso_jardin_alegria_oscuro_110
+  - first:
+      213: -6201972791280829305
+    second: piso_jardin_alegria_oscuro_111
+  - first:
+      213: -4760084056097248588
+    second: piso_jardin_alegria_oscuro_112
+  - first:
+      213: -8740202368149257344
+    second: piso_jardin_alegria_oscuro_113
+  - first:
+      213: 8283352219131916296
+    second: piso_jardin_alegria_oscuro_114
+  - first:
+      213: 1467140782541706932
+    second: piso_jardin_alegria_oscuro_115
+  - first:
+      213: 5223878808728579369
+    second: piso_jardin_alegria_oscuro_116
+  - first:
+      213: 6406071203320538056
+    second: piso_jardin_alegria_oscuro_117
+  - first:
+      213: 3274773710637131719
+    second: piso_jardin_alegria_oscuro_118
+  - first:
+      213: -5007304344097432650
+    second: piso_jardin_alegria_oscuro_119
+  - first:
+      213: -6257230945643176731
+    second: piso_jardin_alegria_oscuro_120
+  - first:
+      213: -6858306368539373051
+    second: piso_jardin_alegria_oscuro_121
+  - first:
+      213: -5845983599736005185
+    second: piso_jardin_alegria_oscuro_122
+  - first:
+      213: -2867514405565183267
+    second: piso_jardin_alegria_oscuro_123
+  - first:
+      213: 7118835788703453746
+    second: piso_jardin_alegria_oscuro_124
+  - first:
+      213: -8773895285828952364
+    second: piso_jardin_alegria_oscuro_125
+  - first:
+      213: -2924411921941266501
+    second: piso_jardin_alegria_oscuro_126
+  - first:
+      213: 3831034838410729103
+    second: piso_jardin_alegria_oscuro_127
+  - first:
+      213: 4716465934980840137
+    second: piso_jardin_alegria_oscuro_128
+  - first:
+      213: 5684609789041442259
+    second: piso_jardin_alegria_oscuro_129
+  - first:
+      213: 5347558885018886920
+    second: piso_jardin_alegria_oscuro_130
+  - first:
+      213: -3778946139474308907
+    second: piso_jardin_alegria_oscuro_131
+  - first:
+      213: -6696795596149596101
+    second: piso_jardin_alegria_oscuro_132
+  - first:
+      213: -1966047128249897417
+    second: piso_jardin_alegria_oscuro_133
+  - first:
+      213: 6891168628311377506
+    second: piso_jardin_alegria_oscuro_134
+  - first:
+      213: 5548120957570571774
+    second: piso_jardin_alegria_oscuro_135
+  - first:
+      213: -3602670778277726249
+    second: piso_jardin_alegria_oscuro_136
+  - first:
+      213: 3652076322501515786
+    second: piso_jardin_alegria_oscuro_137
+  - first:
+      213: -2747222918603942968
+    second: piso_jardin_alegria_oscuro_138
+  - first:
+      213: -7826308144433419748
+    second: piso_jardin_alegria_oscuro_139
+  - first:
+      213: 2580109493047288782
+    second: piso_jardin_alegria_oscuro_140
+  - first:
+      213: -7255565842446231076
+    second: piso_jardin_alegria_oscuro_141
+  - first:
+      213: 3417312988320530127
+    second: piso_jardin_alegria_oscuro_142
+  - first:
+      213: 3013592474619396845
+    second: piso_jardin_alegria_oscuro_143
+  - first:
+      213: 8321322143466861509
+    second: piso_jardin_alegria_oscuro_144
+  - first:
+      213: -2937915456957514293
+    second: piso_jardin_alegria_oscuro_145
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 300
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b595d940a2098f10800000000000000
+      internalID: 2272350374441883058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 993
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234aa7099aa200b46af54cb26e169d61
+      internalID: 1331990097132747311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1010
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982c2ec226eb31647bdf750f52a2bcb2
+      internalID: -1750022086363602406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 928
+        width: 211
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873d6c6578679294a9ee787611968feb
+      internalID: 4165838456639526221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 899
+        width: 535
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27419d9091e010648ba0e25175b2e696
+      internalID: 6702608997300091046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_5
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 898
+        width: 171
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd89bb0f55e63724db6f91a89f41f6e4
+      internalID: 5640400047969067213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_6
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 913
+        width: 101
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd5e7cabf41d384580c921fe8e87881
+      internalID: -2663734345600516969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_7
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1016
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07da323b261dc7e4d8362731189650fd
+      internalID: -3732236284069873028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_8
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 913
+        width: 319
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7ff37b7b66ab74792cdaaf76921bec
+      internalID: -8638021281138068825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_9
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 895
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc108151544779248a83af1c0e718a18
+      internalID: 6585114152144930437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_10
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 929
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4f904ecd0dd5745a61d250d3eafb4e
+      internalID: 746394240762348518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_11
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 939
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f696d52a525d74caadbc060c69f3ee
+      internalID: 5871281972194586738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_12
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 928
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c358b4e596db114dbc4d412d85a151f
+      internalID: -5065148672538127698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_13
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 932
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b50010233a7814d840db19d12bf9ce
+      internalID: 5801554651095744828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_14
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 913
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbd9857f9f86db4397376d684dc61ae
+      internalID: 4311386568305126500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_15
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 940
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11afcfc0794fe1d4e8ed23d15eb99eea
+      internalID: -5032163859627748478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_16
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 946
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bad192c6014c848b3799c9f9a863ba
+      internalID: 7975406395750181213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_17
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 949
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5ddae45ef5cf94d9dd9f3eb5aded57
+      internalID: -2460631676231024241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 920
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dcd29560050cb41b81be90408e9b16
+      internalID: 5492664455309599584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 914
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1aaf1495da1f845b37c1a0f27265e3
+      internalID: 4257825900362884662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_20
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 910
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664d10b39bbc2f94ab9cab627783e771
+      internalID: 338459169184822865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_21
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 916
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051d8525f8d18664488ceb2188450f96
+      internalID: -42683613411392076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_22
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 904
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50356ef030b0323419794195f355f01f
+      internalID: -485064513767787138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_23
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 924
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5104bfa5088ae854bac3031da63dc698
+      internalID: 646853836219254418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_24
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 929
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3280954a77d61074a868690acc626557
+      internalID: 8182256981071136942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_25
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 920
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7dcdd51bc93634896e9cabb6ee8ae8
+      internalID: -8667731474279265488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_26
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 905
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa8b95de34bc4a4db5fe2d6389ba7f1
+      internalID: 4891501362011242752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_27
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 905
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405a3ab9ada4ac842bb5811bdd86c45f
+      internalID: -6976607740655983302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_28
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 913
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf692db3a9f71a04ebee3d7b2dfe52b6
+      internalID: 3105638227989706768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_29
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 904
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b452b9f0868b49440b4e28b065e5e23e
+      internalID: -6113011683427836500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_30
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 913
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a810ceb10c8643f439a2b3977ffdee7c
+      internalID: 8048692848127677928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_31
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 910
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc07e55dcf0754a4284cadd7f67cab8a
+      internalID: -3786163398414314048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_32
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 912
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8402e041ce6bc014383234af5452da29
+      internalID: 1379546289040650368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_33
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 909
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d333a21b2128834fbb680c29e1f3544
+      internalID: 4666110578724076228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_34
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 920
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0704e801b8f72ba43bd40b84cde57d82
+      internalID: 5671340198259859256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_35
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 894
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c9ecef3d099dd4d91f110d1f94e11c
+      internalID: 8477440644436689089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_36
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 912
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831090193e499c64daae8d53e321e1ac
+      internalID: -716081523493683093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_37
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 912
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd3feac76a393f42b422580e943de27
+      internalID: -4271746662651607056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_38
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 910
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b5d51346da2514ab476947715974ec
+      internalID: -5983891551539768288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_39
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 914
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c5eedbf162b44498866431af513fa7
+      internalID: -3694454077371149843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_40
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 904
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9761b8fb9dd45345aa26fade066d74f
+      internalID: -4511138861174569630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_41
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 903
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865f26c796818f84091006bc53f39aca
+      internalID: -7371169557998335899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_42
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 912
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585f95d251e0c57448a6433939cf5656
+      internalID: -6935399623336856025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_43
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 898
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2399d92e2be6325469284bc18f86f7b3
+      internalID: -2461934402938021920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2560
+        height: 903
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0c152c7f29b1746acde6d6eaf16cd5
+      internalID: 1279217610476287680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_45
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 896
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fd4f0d9caea3c47af777f5d84473ae
+      internalID: 5954375263236151593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_46
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 896
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981578d97f4ac1549ba41f9906960e40
+      internalID: 6496280917138553688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_47
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 898
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356215056e109df458cf32c30574f649
+      internalID: -7659117395327472349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_48
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 895
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17652330329d6c04aad6741a2d904305
+      internalID: 6923984558592636159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_49
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 895
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127adaa6a701be34c85f00feb1c34813
+      internalID: 6987086348673388711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_50
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 896
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5736b1d954fad484da1c83e17badf462
+      internalID: -6840915713706354706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_51
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 895
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29939bb34d8b15e40b68bd2533b78b4e
+      internalID: -2421925352352604829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_52
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 897
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aa2c35112bd8e4ebeb8ea381378f7d
+      internalID: -3754826084254471032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_53
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 887
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f59236e1e45ea498c5c0563cccbe12
+      internalID: -2497158650489355135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_54
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 879
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6766a383a31e14e848b2e88ae520b4
+      internalID: 5045064891955393854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_55
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 885
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50023fd743367742aa52eabc1b8b789
+      internalID: 2384586841611245937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_56
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 888
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f57d3171f69e594fa11c662a1253630
+      internalID: 6567513093770280691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_57
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 887
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025e22dbc7916b04eaa01011f8f920cf
+      internalID: 6815047316476411336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_58
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 884
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c06abd63308b8448883baa2d4f04b3
+      internalID: -4869152696493927620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_59
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 880
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6545644f46ac70749818d7b503a2e722
+      internalID: 4080293285517051267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_60
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 879
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d7ec224baf4b64d8c9cc68141bddcb
+      internalID: -1901099122418526648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_61
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 864
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abab2ee69cb92f46907b8ccefe7f00d
+      internalID: 6958830022807690655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 233
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36815345c9b15146908295f2d8d7064
+      internalID: -4646211800290127786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_63
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 254
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8fed4d5a8a9964d80233eb4685a922
+      internalID: -6224327502615500341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_64
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 244
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf09e9d7451678c45b45f7772cc11d6f
+      internalID: 6363671139122917180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_65
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 240
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254ddde98b706584db07a5754ba2d460
+      internalID: 2247607207391887098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_66
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 205
+        width: 129
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e78c07568f589b4b8756999717d6b3a
+      internalID: 477470577583916528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_67
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 249
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2275cb8c1180f9c428f45a0186994abc
+      internalID: -7396942509831051306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_68
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 239
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779e0b53cb7538e409c814c23f298616
+      internalID: -1111078014343716160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 245
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37504727c236c9b469fa89b1d3c4b5eb
+      internalID: 2103762488367937538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_70
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 255
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ee9413ee413bc4d92e7a69725699a6
+      internalID: -8258660204312574204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_71
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 252
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41286980975607d49b2cd4de65dfcaec
+      internalID: -3829399390456362312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_72
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 254
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae4298bb65037244aae748c465679c9
+      internalID: 6990363068604690101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_73
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 235
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36afa9fdabb3eb443afe9ad781b9f907
+      internalID: 631352304456195384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_74
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 226
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57de81adec9f2d4fba55889de99e680
+      internalID: 7955127223536253751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_75
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 251
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2000bc28ac6bd6040a5f28bad35a485e
+      internalID: 108574810719635210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_76
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 255
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e0f7b4c6404114fa558c8c98d98eb8
+      internalID: -2472167149350417291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_77
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 245
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98120569d7319b459c4de20b1213e4c
+      internalID: 7288901322865426000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_78
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 214
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed745fe84fce79d47a19d5d9413854d6
+      internalID: -7465717660025040128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_79
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 193
+        width: 154
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7688f1cb46d974f94495ccfeb32608
+      internalID: 6299703243842835522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_80
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 239
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daad9815c6d78a54c8f845280cac0402
+      internalID: 1738896368531199596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_81
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 240
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42eab1f8a394974b948fb8c0f0d0672
+      internalID: 2965717824810961153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_82
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 219
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7c56cd3d854d74d8f44d1d0941034f
+      internalID: 6070079034727210719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_83
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 236
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e613fa91ef796347a6aa24f882d6a6d
+      internalID: -6468360979394461751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_84
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 243
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8724e755f83b4849b182b5316f4bcd2
+      internalID: 2969426658413930921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_85
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 230
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a63de909e4708498119b74bcef4a05
+      internalID: -6247938851011381466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_86
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 240
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922fcea48975cf3429a890b817994eb7
+      internalID: 764923149607303100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_87
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 243
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4291ed29f374a874496501a539f65855
+      internalID: 3376085567860601211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_88
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 224
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0458aa31a52e7f4c8820a413f33fcf9
+      internalID: -1503455696890613485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_89
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 223
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deb62944a915e0488e33148c46ad016
+      internalID: -818586341173085209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_90
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 239
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4191c4b1dba8a47439c023addce6f6e6
+      internalID: 483634662394789789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_91
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 240
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48090b53825e3545957c1d9f2fed05e
+      internalID: 8781120246932944376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_92
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 239
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc33f31d936d9044a739193452d0ff7
+      internalID: 8400873870954162460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_93
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 235
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f124c15b162a6bf47b0471654470c98f
+      internalID: 2163126974857376450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_94
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 221
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e82674afa732945b20ae69a22ddbed
+      internalID: 8842600138339135886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_95
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 224
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cff94f123ef62040bd9500fc4b00fc2
+      internalID: -8894353552530312188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_96
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 228
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700605173ab7e4e43864bb55f1b83ba4
+      internalID: -2852153702323058154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_97
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 234
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e5677d462dc34483a9ae86e846f29
+      internalID: -2164950128753621950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_98
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 226
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc83a19048f8f234bba357a2c13b0b7e
+      internalID: 7508281049694224508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_99
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 222
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f1e898ef4b4f94aa9a98e993dc8d06
+      internalID: 2367061154593487280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_100
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 224
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aeba94c5f6bd64b99bd6154eb1e54b
+      internalID: -1733598925849287703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_101
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 226
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60812b2ee57512f44b46c348a01a8ff3
+      internalID: -3244202782486886152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_102
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ab5e562a38ddf47a9763ce85ca9a2b
+      internalID: 1936382814572364411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_103
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 179
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2162bc6acf74c3f4984b9edb737a92c6
+      internalID: 6032221697610345613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_104
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 209
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58e34b2ab494ba4fbca551e357ad7c7
+      internalID: -2589305871700615495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_105
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 205
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d8eccaf85ae814dad0f77c61da2ed6
+      internalID: 6428983648636527463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_106
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ee13e125ecc5b4c8822d0624cdcb2d
+      internalID: 6977188611434234282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_107
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 212
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66f925892079247a24a2e2c2e7f210
+      internalID: 3975116345546998855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_108
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 216
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188ff94209f15474e8fd8bfb2ff217b3
+      internalID: 6621474030709980848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_109
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 214
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5e6407087d2c48a850080f60d526b
+      internalID: 2998749316391573585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_110
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 195
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b47b8ac52a97247b42243cfa9b2421
+      internalID: 4407042364017950135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_111
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 213
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8f6ab5ced178840b0de073ee1c7a45
+      internalID: -6201972791280829305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_112
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 207
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ef598efd218ff42b1ce022057cdc05
+      internalID: -4760084056097248588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_113
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 210
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f6911698a3372419b3300458bb7ec6
+      internalID: -8740202368149257344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_114
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 208
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b343efed60009e64ca71ef46eddd3457
+      internalID: 8283352219131916296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_115
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 210
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c33f46047d249439187f7d34f99a01
+      internalID: 1467140782541706932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_116
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 195
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3b573293a5c2147a5e59c25eafa5ba
+      internalID: 5223878808728579369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_117
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 206
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556bfa72acc7a33448189939718870d7
+      internalID: 6406071203320538056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_118
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 210
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d67a3e7b4345f4693f0b0822a565b3
+      internalID: 3274773710637131719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_119
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 209
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855df769a432dbd4393d10fc8c6951a0
+      internalID: -5007304344097432650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_120
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 210
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f697816a3463fad40ba09a8b5de9323d
+      internalID: -6257230945643176731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_121
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 179
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417d1638a718d40449e778f33c6b3522
+      internalID: -6858306368539373051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_122
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 179
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27962ce55091f194cabb95087a7e9442
+      internalID: -5845983599736005185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_123
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 200
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67fb4f3332ab3a489b87d967dfce4ba
+      internalID: -2867514405565183267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_124
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 194
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f377c23f4bf732b4bb93d11576716c7e
+      internalID: 7118835788703453746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_125
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 196
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f585a5410b6cd468a2f3c9b55574bf
+      internalID: -8773895285828952364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_126
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 193
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611589b2982451240b822609875f38d6
+      internalID: -2924411921941266501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_127
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 194
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f6a2b31220eaa47bbfff10b3f8e7c3
+      internalID: 3831034838410729103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_128
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 191
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da45bc8f3a941f34b9e05a2a1828b0ff
+      internalID: 4716465934980840137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_129
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 198
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69145121319f4644f84d7c6a99372412
+      internalID: 5684609789041442259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_130
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077f1e9dec91c7b4f99d08b4f7fbbd03
+      internalID: 5347558885018886920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_131
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 190
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d16811173dd164aa38cf4369f337dc
+      internalID: -3778946139474308907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_132
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 193
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2b051486407f544ab219b1d6e6f715
+      internalID: -6696795596149596101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_133
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 194
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6c788f1b65f7540a38699d66ad5ff8
+      internalID: -1966047128249897417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_134
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 182
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc213e75ef11e3443a7a6f4c1003d3a5
+      internalID: 6891168628311377506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_135
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 174
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419fe5a0e4a94614da6115b5ab1a738f
+      internalID: 5548120957570571774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_136
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 177
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cf6c5a9089dac489b1be224a7334be
+      internalID: -3602670778277726249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_137
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 184
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c917680402b614591bc138a3fb8f6e
+      internalID: 3652076322501515786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_138
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 194
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5597b316402104fb9ac326678e8206
+      internalID: -2747222918603942968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_139
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 147
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9166f6ef41b504cacfa3e84cb16c30
+      internalID: -7826308144433419748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_140
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 165
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28f64cfb2374e14aa3c80fb00b5e3d7
+      internalID: 2580109493047288782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso_jardin_alegria_oscuro_141
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 144
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa13f64eb5a4d54e92ec026e265f9d6
+      internalID: -7255565842446231076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d6da2e4a48eef1140af27dc5142b2ec8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":1.0,"y":1.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      piso_jardin_alegria_oscuro_0: 2272350374441883058
+      piso_jardin_alegria_oscuro_1: 1331990097132747311
+      piso_jardin_alegria_oscuro_10: 746394240762348518
+      piso_jardin_alegria_oscuro_100: -1733598925849287703
+      piso_jardin_alegria_oscuro_101: -3244202782486886152
+      piso_jardin_alegria_oscuro_102: 1936382814572364411
+      piso_jardin_alegria_oscuro_103: 6032221697610345613
+      piso_jardin_alegria_oscuro_104: -2589305871700615495
+      piso_jardin_alegria_oscuro_105: 6428983648636527463
+      piso_jardin_alegria_oscuro_106: 6977188611434234282
+      piso_jardin_alegria_oscuro_107: 3975116345546998855
+      piso_jardin_alegria_oscuro_108: 6621474030709980848
+      piso_jardin_alegria_oscuro_109: 2998749316391573585
+      piso_jardin_alegria_oscuro_11: 5871281972194586738
+      piso_jardin_alegria_oscuro_110: 4407042364017950135
+      piso_jardin_alegria_oscuro_111: -6201972791280829305
+      piso_jardin_alegria_oscuro_112: -4760084056097248588
+      piso_jardin_alegria_oscuro_113: -8740202368149257344
+      piso_jardin_alegria_oscuro_114: 8283352219131916296
+      piso_jardin_alegria_oscuro_115: 1467140782541706932
+      piso_jardin_alegria_oscuro_116: 5223878808728579369
+      piso_jardin_alegria_oscuro_117: 6406071203320538056
+      piso_jardin_alegria_oscuro_118: 3274773710637131719
+      piso_jardin_alegria_oscuro_119: -5007304344097432650
+      piso_jardin_alegria_oscuro_12: -5065148672538127698
+      piso_jardin_alegria_oscuro_120: -6257230945643176731
+      piso_jardin_alegria_oscuro_121: -6858306368539373051
+      piso_jardin_alegria_oscuro_122: -5845983599736005185
+      piso_jardin_alegria_oscuro_123: -2867514405565183267
+      piso_jardin_alegria_oscuro_124: 7118835788703453746
+      piso_jardin_alegria_oscuro_125: -8773895285828952364
+      piso_jardin_alegria_oscuro_126: -2924411921941266501
+      piso_jardin_alegria_oscuro_127: 3831034838410729103
+      piso_jardin_alegria_oscuro_128: 4716465934980840137
+      piso_jardin_alegria_oscuro_129: 5684609789041442259
+      piso_jardin_alegria_oscuro_13: 5801554651095744828
+      piso_jardin_alegria_oscuro_130: 5347558885018886920
+      piso_jardin_alegria_oscuro_131: -3778946139474308907
+      piso_jardin_alegria_oscuro_132: -6696795596149596101
+      piso_jardin_alegria_oscuro_133: -1966047128249897417
+      piso_jardin_alegria_oscuro_134: 6891168628311377506
+      piso_jardin_alegria_oscuro_135: 5548120957570571774
+      piso_jardin_alegria_oscuro_136: -3602670778277726249
+      piso_jardin_alegria_oscuro_137: 3652076322501515786
+      piso_jardin_alegria_oscuro_138: -2747222918603942968
+      piso_jardin_alegria_oscuro_139: -7826308144433419748
+      piso_jardin_alegria_oscuro_14: 4311386568305126500
+      piso_jardin_alegria_oscuro_140: 2580109493047288782
+      piso_jardin_alegria_oscuro_141: -7255565842446231076
+      piso_jardin_alegria_oscuro_15: -5032163859627748478
+      piso_jardin_alegria_oscuro_16: 7975406395750181213
+      piso_jardin_alegria_oscuro_17: -2460631676231024241
+      piso_jardin_alegria_oscuro_18: 5492664455309599584
+      piso_jardin_alegria_oscuro_19: 4257825900362884662
+      piso_jardin_alegria_oscuro_2: -1750022086363602406
+      piso_jardin_alegria_oscuro_20: 338459169184822865
+      piso_jardin_alegria_oscuro_21: -42683613411392076
+      piso_jardin_alegria_oscuro_22: -485064513767787138
+      piso_jardin_alegria_oscuro_23: 646853836219254418
+      piso_jardin_alegria_oscuro_24: 8182256981071136942
+      piso_jardin_alegria_oscuro_25: -8667731474279265488
+      piso_jardin_alegria_oscuro_26: 4891501362011242752
+      piso_jardin_alegria_oscuro_27: -6976607740655983302
+      piso_jardin_alegria_oscuro_28: 3105638227989706768
+      piso_jardin_alegria_oscuro_29: -6113011683427836500
+      piso_jardin_alegria_oscuro_3: 4165838456639526221
+      piso_jardin_alegria_oscuro_30: 8048692848127677928
+      piso_jardin_alegria_oscuro_31: -3786163398414314048
+      piso_jardin_alegria_oscuro_32: 1379546289040650368
+      piso_jardin_alegria_oscuro_33: 4666110578724076228
+      piso_jardin_alegria_oscuro_34: 5671340198259859256
+      piso_jardin_alegria_oscuro_35: 8477440644436689089
+      piso_jardin_alegria_oscuro_36: -716081523493683093
+      piso_jardin_alegria_oscuro_37: -4271746662651607056
+      piso_jardin_alegria_oscuro_38: -5983891551539768288
+      piso_jardin_alegria_oscuro_39: -3694454077371149843
+      piso_jardin_alegria_oscuro_4: 6702608997300091046
+      piso_jardin_alegria_oscuro_40: -4511138861174569630
+      piso_jardin_alegria_oscuro_41: -7371169557998335899
+      piso_jardin_alegria_oscuro_42: -6935399623336856025
+      piso_jardin_alegria_oscuro_43: -2461934402938021920
+      piso_jardin_alegria_oscuro_44: 1279217610476287680
+      piso_jardin_alegria_oscuro_45: 5954375263236151593
+      piso_jardin_alegria_oscuro_46: 6496280917138553688
+      piso_jardin_alegria_oscuro_47: -7659117395327472349
+      piso_jardin_alegria_oscuro_48: 6923984558592636159
+      piso_jardin_alegria_oscuro_49: 6987086348673388711
+      piso_jardin_alegria_oscuro_5: 5640400047969067213
+      piso_jardin_alegria_oscuro_50: -6840915713706354706
+      piso_jardin_alegria_oscuro_51: -2421925352352604829
+      piso_jardin_alegria_oscuro_52: -3754826084254471032
+      piso_jardin_alegria_oscuro_53: -2497158650489355135
+      piso_jardin_alegria_oscuro_54: 5045064891955393854
+      piso_jardin_alegria_oscuro_55: 2384586841611245937
+      piso_jardin_alegria_oscuro_56: 6567513093770280691
+      piso_jardin_alegria_oscuro_57: 6815047316476411336
+      piso_jardin_alegria_oscuro_58: -4869152696493927620
+      piso_jardin_alegria_oscuro_59: 4080293285517051267
+      piso_jardin_alegria_oscuro_6: -2663734345600516969
+      piso_jardin_alegria_oscuro_60: -1901099122418526648
+      piso_jardin_alegria_oscuro_61: 6958830022807690655
+      piso_jardin_alegria_oscuro_62: -4646211800290127786
+      piso_jardin_alegria_oscuro_63: -6224327502615500341
+      piso_jardin_alegria_oscuro_64: 6363671139122917180
+      piso_jardin_alegria_oscuro_65: 2247607207391887098
+      piso_jardin_alegria_oscuro_66: 477470577583916528
+      piso_jardin_alegria_oscuro_67: -7396942509831051306
+      piso_jardin_alegria_oscuro_68: -1111078014343716160
+      piso_jardin_alegria_oscuro_69: 2103762488367937538
+      piso_jardin_alegria_oscuro_7: -3732236284069873028
+      piso_jardin_alegria_oscuro_70: -8258660204312574204
+      piso_jardin_alegria_oscuro_71: -3829399390456362312
+      piso_jardin_alegria_oscuro_72: 6990363068604690101
+      piso_jardin_alegria_oscuro_73: 631352304456195384
+      piso_jardin_alegria_oscuro_74: 7955127223536253751
+      piso_jardin_alegria_oscuro_75: 108574810719635210
+      piso_jardin_alegria_oscuro_76: -2472167149350417291
+      piso_jardin_alegria_oscuro_77: 7288901322865426000
+      piso_jardin_alegria_oscuro_78: -7465717660025040128
+      piso_jardin_alegria_oscuro_79: 6299703243842835522
+      piso_jardin_alegria_oscuro_8: -8638021281138068825
+      piso_jardin_alegria_oscuro_80: 1738896368531199596
+      piso_jardin_alegria_oscuro_81: 2965717824810961153
+      piso_jardin_alegria_oscuro_82: 6070079034727210719
+      piso_jardin_alegria_oscuro_83: -6468360979394461751
+      piso_jardin_alegria_oscuro_84: 2969426658413930921
+      piso_jardin_alegria_oscuro_85: -6247938851011381466
+      piso_jardin_alegria_oscuro_86: 764923149607303100
+      piso_jardin_alegria_oscuro_87: 3376085567860601211
+      piso_jardin_alegria_oscuro_88: -1503455696890613485
+      piso_jardin_alegria_oscuro_89: -818586341173085209
+      piso_jardin_alegria_oscuro_9: 6585114152144930437
+      piso_jardin_alegria_oscuro_90: 483634662394789789
+      piso_jardin_alegria_oscuro_91: 8781120246932944376
+      piso_jardin_alegria_oscuro_92: 8400873870954162460
+      piso_jardin_alegria_oscuro_93: 2163126974857376450
+      piso_jardin_alegria_oscuro_94: 8842600138339135886
+      piso_jardin_alegria_oscuro_95: -8894353552530312188
+      piso_jardin_alegria_oscuro_96: -2852153702323058154
+      piso_jardin_alegria_oscuro_97: -2164950128753621950
+      piso_jardin_alegria_oscuro_98: 7508281049694224508
+      piso_jardin_alegria_oscuro_99: 2367061154593487280
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

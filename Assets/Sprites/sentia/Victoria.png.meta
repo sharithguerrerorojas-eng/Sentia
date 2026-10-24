@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: e64d9c6164b305943b1068a603f766b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4671780527501707841
+    second: nova_victory_side_sprites_row_0
+  - first:
+      213: -8441608955266140316
+    second: nova_victory_side_sprites_row_1
+  - first:
+      213: -5712844246370734437
+    second: nova_victory_side_sprites_row_2
+  - first:
+      213: 5192951256600832037
+    second: nova_victory_side_sprites_row_3
+  - first:
+      213: 264729040719953880
+    second: nova_victory_side_sprites_row_4
+  - first:
+      213: -4322688620075687487
+    second: nova_victory_side_sprites_row_5
+  - first:
+      213: 5060658142981711714
+    second: nova_victory_side_sprites_row_6
+  - first:
+      213: 4871769911757292379
+    second: nova_victory_side_sprites_row_7
+  - first:
+      213: 73099390761769381
+    second: nova_victory_side_sprites_row_8
+  - first:
+      213: 8594612508282935872
+    second: nova_victory_side_sprites_row_9
+  - first:
+      213: 3660004044493594723
+    second: nova_victory_side_sprites_row_10
+  - first:
+      213: 9207016550557142596
+    second: nova_victory_side_sprites_row_11
+  - first:
+      213: 3609024916375212463
+    second: nova_victory_side_sprites_row_12
+  - first:
+      213: 3484941192103578658
+    second: nova_victory_side_sprites_row_13
+  - first:
+      213: 3050143020581544548
+    second: nova_victory_side_sprites_row_14
+  - first:
+      213: 1109140584764252252
+    second: nova_victory_side_sprites_row_15
+  - first:
+      213: 2974530919223451443
+    second: nova_victory_side_sprites_row_16
+  - first:
+      213: 7596664094020871913
+    second: nova_victory_side_sprites_row_17
+  - first:
+      213: -2993871668594599341
+    second: nova_victory_side_sprites_row_18
+  - first:
+      213: 624785800750213340
+    second: nova_victory_side_sprites_row_19
+  - first:
+      213: -9193900590454371161
+    second: nova_victory_side_sprites_row_20
+  - first:
+      213: 8545985699674092277
+    second: nova_victory_side_sprites_row_21
+  - first:
+      213: 5025808645367831772
+    second: nova_victory_side_sprites_row_22
+  - first:
+      213: -6841687217670439126
+    second: nova_victory_side_sprites_row_23
+  - first:
+      213: 9192509080030158634
+    second: nova_victory_side_sprites_row_24
+  - first:
+      213: 3669367066023767841
+    second: nova_victory_side_sprites_row_25
+  - first:
+      213: -5955172711121753641
+    second: nova_victory_side_sprites_row_26
+  - first:
+      213: -4363212416512689613
+    second: nova_victory_side_sprites_row_27
+  - first:
+      213: -7901306375894067855
+    second: nova_victory_side_sprites_row_28
+  - first:
+      213: 6318701847841977091
+    second: nova_victory_side_sprites_row_29
+  - first:
+      213: 4967385372291389167
+    second: nova_victory_side_sprites_row_30
+  - first:
+      213: 4775040853853679891
+    second: nova_victory_side_sprites_row_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Victoria_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 336
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d277bbc38799f04097d6cd03e36f3f3
+      internalID: 2013905954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 295
+        width: 336
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64c0b1ae6362604da76d7c5ba535833
+      internalID: -1893291595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 295
+        width: 336
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fd09063e3741e4fb2fca35e714dc04
+      internalID: 2147336150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_3
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 295
+        width: 336
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6882cd0a7ee9f7c478002f947694faf5
+      internalID: 676116109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_4
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 295
+        width: 336
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfa19f95e849644c86714aeeb859ae4
+      internalID: 14131766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_5
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 295
+        width: 365
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc45e9cefb8e4e4f929786974d69988
+      internalID: -258926598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_6
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 295
+        width: 297
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0b4f7fee70d674287adb9e0d04326d
+      internalID: -795474262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_7
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 295
+        width: 336
+        height: 528
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024f018120d14804ca693e8be828cd2a
+      internalID: -796599536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 687a6162f5b7ba24b959ac3ae78c93a7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":336.0,"y":1152.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Victoria_0: 2013905954
+      Victoria_1: -1893291595
+      Victoria_2: 2147336150
+      Victoria_3: 676116109
+      Victoria_4: 14131766
+      Victoria_5: -258926598
+      Victoria_6: -795474262
+      Victoria_7: -796599536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

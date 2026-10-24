@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 59f0204deef21424b805c764ea26dcb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -323092873117718881
+    second: nova_talk_sprites_row_0
+  - first:
+      213: -1507693274649708100
+    second: nova_talk_sprites_row_1
+  - first:
+      213: -8506021343225170161
+    second: nova_talk_sprites_row_2
+  - first:
+      213: 9043961730937446555
+    second: nova_talk_sprites_row_3
+  - first:
+      213: -6612498955214061372
+    second: nova_talk_sprites_row_4
+  - first:
+      213: -4490300941756242226
+    second: nova_talk_sprites_row_5
+  - first:
+      213: -5138911269143864711
+    second: nova_talk_sprites_row_6
+  - first:
+      213: 941200903233642854
+    second: nova_talk_sprites_row_7
+  - first:
+      213: 6623799625309343312
+    second: nova_talk_sprites_row_8
+  - first:
+      213: 7493805835768510239
+    second: nova_talk_sprites_row_9
+  - first:
+      213: 7680235212841065594
+    second: nova_talk_sprites_row_10
+  - first:
+      213: 3349527591315215544
+    second: nova_talk_sprites_row_11
+  - first:
+      213: 3630680886145130892
+    second: nova_talk_sprites_row_12
+  - first:
+      213: 4954579367320394814
+    second: nova_talk_sprites_row_13
+  - first:
+      213: -2554168364079305357
+    second: nova_talk_sprites_row_14
+  - first:
+      213: -201332915066055641
+    second: nova_talk_sprites_row_15
+  - first:
+      213: -6746707877142594050
+    second: nova_talk_sprites_row_16
+  - first:
+      213: -3191148169196031185
+    second: nova_talk_sprites_row_17
+  - first:
+      213: -5558884254353868912
+    second: nova_talk_sprites_row_18
+  - first:
+      213: -5301951917693203779
+    second: nova_talk_sprites_row_19
+  - first:
+      213: -6975051222759913733
+    second: nova_talk_sprites_row_20
+  - first:
+      213: -5513090482736484786
+    second: nova_talk_sprites_row_21
+  - first:
+      213: 7132674865611240623
+    second: nova_talk_sprites_row_22
+  - first:
+      213: -4572450810275624596
+    second: nova_talk_sprites_row_23
+  - first:
+      213: -5825812770143633939
+    second: nova_talk_sprites_row_24
+  - first:
+      213: -2971392119826160105
+    second: nova_talk_sprites_row_25
+  - first:
+      213: -2220355561087899272
+    second: nova_talk_sprites_row_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hablar_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 301
+        width: 298
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed1a17ab548d6747994a63f087d5131
+      internalID: -1766033848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hablar_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 301
+        width: 309
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8096f35955cea0d4b9a2b432a38466ce
+      internalID: -80870368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hablar_2
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 304
+        width: 311
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f5f8c4856967c4eba3d9e2f5a11352
+      internalID: 971262648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hablar_3
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 298
+        width: 299
+        height: 569
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cec4ae45c422744a03a09f06b1c33c
+      internalID: 783635784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hablar_4
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 309
+        width: 309
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3103e44aee05d4783c71a8eed6d647
+      internalID: -248987860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hablar_5
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 306
+        width: 299
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f1d47db9761304c934fe304f779ad1
+      internalID: 64127116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hablar_6
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 306
+        width: 312
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a01123fb12ed9489c856ba26964694
+      internalID: 469474874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hablar_7
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 303
+        width: 307
+        height: 574
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5972c6fcf7c3d984fa6dd00bebc7630d
+      internalID: 281459419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0c1d5043e213a4043ab3c6b99ca26280
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":336.0,"y":1152.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      hablar_0: -1766033848
+      hablar_1: -80870368
+      hablar_2: 971262648
+      hablar_3: 783635784
+      hablar_4: -248987860
+      hablar_5: 64127116
+      hablar_6: 469474874
+      hablar_7: 281459419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: 015a481915acd394988f1f17b7df6e39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7853457626437997263
+    second: nova_magic_shield_side_sprites_row_0
+  - first:
+      213: 8574922668424645553
+    second: nova_magic_shield_side_sprites_row_1
+  - first:
+      213: -389125395444706396
+    second: nova_magic_shield_side_sprites_row_2
+  - first:
+      213: 7293070387013979870
+    second: nova_magic_shield_side_sprites_row_3
+  - first:
+      213: -3823803304273624786
+    second: nova_magic_shield_side_sprites_row_4
+  - first:
+      213: 9074309971769577949
+    second: nova_magic_shield_side_sprites_row_5
+  - first:
+      213: 7667694313494986079
+    second: nova_magic_shield_side_sprites_row_6
+  - first:
+      213: 1486226053719733609
+    second: nova_magic_shield_side_sprites_row_7
+  - first:
+      213: 5383376304509751028
+    second: nova_magic_shield_side_sprites_row_8
+  - first:
+      213: -4841740664836883607
+    second: nova_magic_shield_side_sprites_row_9
+  - first:
+      213: -1028628051246836237
+    second: nova_magic_shield_side_sprites_row_10
+  - first:
+      213: -4175218507756586016
+    second: nova_magic_shield_side_sprites_row_11
+  - first:
+      213: -6965128766230378497
+    second: nova_magic_shield_side_sprites_row_12
+  - first:
+      213: -5370130511200871794
+    second: nova_magic_shield_side_sprites_row_13
+  - first:
+      213: -7489783304181938261
+    second: nova_magic_shield_side_sprites_row_14
+  - first:
+      213: -7097036460370393673
+    second: nova_magic_shield_side_sprites_row_15
+  - first:
+      213: -255664026855546035
+    second: nova_magic_shield_side_sprites_row_16
+  - first:
+      213: -8826544026689829899
+    second: nova_magic_shield_side_sprites_row_17
+  - first:
+      213: -5277081855303207454
+    second: nova_magic_shield_side_sprites_row_18
+  - first:
+      213: -2769972969020233005
+    second: nova_magic_shield_side_sprites_row_19
+  - first:
+      213: 6807195139136359938
+    second: nova_magic_shield_side_sprites_row_20
+  - first:
+      213: 185019040022423254
+    second: nova_magic_shield_side_sprites_row_21
+  - first:
+      213: 3584377043885670299
+    second: nova_magic_shield_side_sprites_row_22
+  - first:
+      213: -6433114565698971507
+    second: nova_magic_shield_side_sprites_row_23
+  - first:
+      213: -169776902662936586
+    second: nova_magic_shield_side_sprites_row_24
+  - first:
+      213: 4465147013621804807
+    second: nova_magic_shield_side_sprites_row_25
+  - first:
+      213: 3438136670561095443
+    second: nova_magic_shield_side_sprites_row_26
+  - first:
+      213: -8152414435451376723
+    second: nova_magic_shield_side_sprites_row_27
+  - first:
+      213: -7259277994760326658
+    second: nova_magic_shield_side_sprites_row_28
+  - first:
+      213: 4821304237844601778
+    second: nova_magic_shield_side_sprites_row_29
+  - first:
+      213: -8633428930526430623
+    second: nova_magic_shield_side_sprites_row_30
+  - first:
+      213: -7498176084811092348
+    second: nova_magic_shield_side_sprites_row_31
+  - first:
+      213: 3620755149136236191
+    second: nova_magic_shield_side_sprites_row_32
+  - first:
+      213: 4860866300632442281
+    second: nova_magic_shield_side_sprites_row_33
+  - first:
+      213: 3102377379554750995
+    second: nova_magic_shield_side_sprites_row_34
+  - first:
+      213: 930089674114831148
+    second: nova_magic_shield_side_sprites_row_35
+  - first:
+      213: -123341287688694689
+    second: nova_magic_shield_side_sprites_row_36
+  - first:
+      213: -4801082729186320800
+    second: nova_magic_shield_side_sprites_row_37
+  - first:
+      213: -4814937744831747208
+    second: nova_magic_shield_side_sprites_row_38
+  - first:
+      213: 4796873128601656646
+    second: nova_magic_shield_side_sprites_row_39
+  - first:
+      213: -961422336155327114
+    second: nova_magic_shield_side_sprites_row_40
+  - first:
+      213: 5979911546444852812
+    second: nova_magic_shield_side_sprites_row_41
+  - first:
+      213: -1869766682216328613
+    second: nova_magic_shield_side_sprites_row_42
+  - first:
+      213: -7622018333899796961
+    second: nova_magic_shield_side_sprites_row_43
+  - first:
+      213: 9046878329006828488
+    second: nova_magic_shield_side_sprites_row_44
+  - first:
+      213: -8290598707780294972
+    second: nova_magic_shield_side_sprites_row_45
+  - first:
+      213: -6070982478471697112
+    second: nova_magic_shield_side_sprites_row_46
+  - first:
+      213: -155777220772863500
+    second: nova_magic_shield_side_sprites_row_47
+  - first:
+      213: -8714468864164008967
+    second: nova_magic_shield_side_sprites_row_48
+  - first:
+      213: 4415803872943566578
+    second: nova_magic_shield_side_sprites_row_49
+  - first:
+      213: 135114406402678572
+    second: nova_magic_shield_side_sprites_row_50
+  - first:
+      213: 7141643028474327857
+    second: nova_magic_shield_side_sprites_row_51
+  - first:
+      213: -595660505475299254
+    second: nova_magic_shield_side_sprites_row_52
+  - first:
+      213: -3864931687566997233
+    second: nova_magic_shield_side_sprites_row_53
+  - first:
+      213: -6631563919422650140
+    second: nova_magic_shield_side_sprites_row_54
+  - first:
+      213: 3572485207423460896
+    second: nova_magic_shield_side_sprites_row_55
+  - first:
+      213: 5424973858474400615
+    second: nova_magic_shield_side_sprites_row_56
+  - first:
+      213: -2272643598335164070
+    second: nova_magic_shield_side_sprites_row_57
+  - first:
+      213: -8744750074458079915
+    second: nova_magic_shield_side_sprites_row_58
+  - first:
+      213: 2336186244610439031
+    second: nova_magic_shield_side_sprites_row_59
+  - first:
+      213: -4359086719207961664
+    second: nova_magic_shield_side_sprites_row_60
+  - first:
+      213: 3408183129203722244
+    second: nova_magic_shield_side_sprites_row_61
+  - first:
+      213: -1099446124166972334
+    second: nova_magic_shield_side_sprites_row_62
+  - first:
+      213: -347250632879645566
+    second: nova_magic_shield_side_sprites_row_63
+  - first:
+      213: -3934487020618446780
+    second: nova_magic_shield_side_sprites_row_64
+  - first:
+      213: -1110070902610349431
+    second: nova_magic_shield_side_sprites_row_65
+  - first:
+      213: 8027920171557834118
+    second: nova_magic_shield_side_sprites_row_66
+  - first:
+      213: -1793529237857220731
+    second: nova_magic_shield_side_sprites_row_67
+  - first:
+      213: 5521939788548559476
+    second: nova_magic_shield_side_sprites_row_68
+  - first:
+      213: 2652977006754818649
+    second: nova_magic_shield_side_sprites_row_69
+  - first:
+      213: -1492690909180170960
+    second: nova_magic_shield_side_sprites_row_70
+  - first:
+      213: -7191844685675917084
+    second: nova_magic_shield_side_sprites_row_71
+  - first:
+      213: -7938857696677283240
+    second: nova_magic_shield_side_sprites_row_72
+  - first:
+      213: 8143625491287135993
+    second: nova_magic_shield_side_sprites_row_73
+  - first:
+      213: -2580270021982107612
+    second: nova_magic_shield_side_sprites_row_74
+  - first:
+      213: -5734913395817810045
+    second: nova_magic_shield_side_sprites_row_75
+  - first:
+      213: -4229092900725976619
+    second: nova_magic_shield_side_sprites_row_76
+  - first:
+      213: -91627491239247730
+    second: nova_magic_shield_side_sprites_row_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 105
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Defensa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 290
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2063502c03963459acbb27573bf2f6
+      internalID: -320268409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defensa_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 304
+        width: 283
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4792f021b6656774395dbeffe989e4ef
+      internalID: -760798578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defensa_2
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 304
+        width: 280
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa9e0dd4c0f24e40b22d769e482925c
+      internalID: -280987064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defensa_3
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 310
+        width: 331
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0fa1b810b168247986e04c47b71358
+      internalID: -604875332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defensa_4
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 308
+        width: 331
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143f468f3cee58e44b90b1b2c62a2f26
+      internalID: 1748206710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defensa_5
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 308
+        width: 321
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccb0aec40a66df43b8f8604e48acd0e
+      internalID: -1903701632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defensa_6
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 308
+        width: 337
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b15d3548a1d04144aedb6c5cc98653f
+      internalID: -876764255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Defensa_7
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 301
+        width: 326
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc116c79ad6d9648b8b7ab2c25dd932
+      internalID: -1756558475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 41e2ed914c9b3ad449b40f0ecc7e87bf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":336.0,"y":1152.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Defensa_0: -320268409
+      Defensa_1: -760798578
+      Defensa_2: -280987064
+      Defensa_3: -604875332
+      Defensa_4: 1748206710
+      Defensa_5: -1903701632
+      Defensa_6: -876764255
+      Defensa_7: -1756558475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

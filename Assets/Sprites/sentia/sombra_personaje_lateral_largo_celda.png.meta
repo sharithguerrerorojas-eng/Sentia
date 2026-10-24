@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 5d7d080b56124354ea62e5c8c9228632
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6276268050836273429
+    second: sombra_personaje_lateral_largo_celda_0
+  - first:
+      213: 5452099591824202760
+    second: sombra_personaje_lateral_largo_celda_1
+  - first:
+      213: -6145239858386390963
+    second: sombra_personaje_lateral_largo_celda_2
+  - first:
+      213: 6551137373037211015
+    second: sombra_personaje_lateral_largo_celda_3
+  - first:
+      213: 4225757878014431999
+    second: sombra_personaje_lateral_largo_celda_4
+  - first:
+      213: -765215202302300587
+    second: sombra_personaje_lateral_largo_celda_5
+  - first:
+      213: -6817626820461854757
+    second: sombra_personaje_lateral_largo_celda_6
+  - first:
+      213: -9169992035532122284
+    second: sombra_personaje_lateral_largo_celda_7
+  - first:
+      213: -3961229808516724042
+    second: sombra_personaje_lateral_largo_celda_8
+  - first:
+      213: -1164034134854078472
+    second: sombra_personaje_lateral_largo_celda_9
+  - first:
+      213: 6546471365442765598
+    second: sombra_personaje_lateral_largo_celda_10
+  - first:
+      213: -5810197143503180403
+    second: sombra_personaje_lateral_largo_celda_11
+  - first:
+      213: 4184731701892696359
+    second: sombra_personaje_lateral_largo_celda_12
+  - first:
+      213: -2161162573676367756
+    second: sombra_personaje_lateral_largo_celda_13
+  - first:
+      213: -628580468789711332
+    second: sombra_personaje_lateral_largo_celda_14
+  - first:
+      213: -5196087571832975944
+    second: sombra_personaje_lateral_largo_celda_15
+  - first:
+      213: 2923307137374002418
+    second: sombra_personaje_lateral_largo_celda_16
+  - first:
+      213: -339276884816424217
+    second: sombra_personaje_lateral_largo_celda_17
+  - first:
+      213: -7278345340275214986
+    second: sombra_personaje_lateral_largo_celda_18
+  - first:
+      213: 5458727864164420059
+    second: sombra_personaje_lateral_largo_celda_19
+  - first:
+      213: -1221686578063661565
+    second: sombra_personaje_lateral_largo_celda_20
+  - first:
+      213: -3282358906697451296
+    second: sombra_personaje_lateral_largo_celda_21
+  - first:
+      213: -347778980573810248
+    second: sombra_personaje_lateral_largo_celda_22
+  - first:
+      213: 7138901223781498844
+    second: sombra_personaje_lateral_largo_celda_23
+  - first:
+      213: -4648552616906209907
+    second: sombra_personaje_lateral_largo_celda_24
+  - first:
+      213: 1714102002586347208
+    second: sombra_personaje_lateral_largo_celda_25
+  - first:
+      213: -8191609377229142897
+    second: sombra_personaje_lateral_largo_celda_26
+  - first:
+      213: 4322986749181372513
+    second: sombra_personaje_lateral_largo_celda_27
+  - first:
+      213: 2069224295392056355
+    second: sombra_personaje_lateral_largo_celda_28
+  - first:
+      213: 9112060355278638715
+    second: sombra_personaje_lateral_largo_celda_29
+  - first:
+      213: -6070747664127773039
+    second: sombra_personaje_lateral_largo_celda_30
+  - first:
+      213: 1050388446685983406
+    second: sombra_personaje_lateral_largo_celda_31
+  - first:
+      213: 9043315869621814811
+    second: sombra_personaje_lateral_largo_celda_32
+  - first:
+      213: -7042142589038297681
+    second: sombra_personaje_lateral_largo_celda_33
+  - first:
+      213: -1937925659456880932
+    second: sombra_personaje_lateral_largo_celda_34
+  - first:
+      213: 6503271032559254747
+    second: sombra_personaje_lateral_largo_celda_35
+  - first:
+      213: 629238088406213038
+    second: sombra_personaje_lateral_largo_celda_36
+  - first:
+      213: -7625668929690836989
+    second: sombra_personaje_lateral_largo_celda_37
+  - first:
+      213: 7732854485067627464
+    second: sombra_personaje_lateral_largo_celda_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sombra_personaje_lateral_largo_celda_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1920
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be645caf57736e8a0800000000000000
+      internalID: -6276268050836273429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bcb80359690923f479682dd5536ed86b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":1920.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sombra_personaje_lateral_largo_celda_0: -6276268050836273429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
