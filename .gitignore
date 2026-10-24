@@ -43,23 +43,3 @@
 # Windows
 Thumbs.db
 desktop.ini
-
-# Unity specific
-*.unitypackage
-*.unity
-*.asset
-*.anim
-*.controller
-*.mat
-*.prefab
-*.scene
-*.shader
-*.spriteatlas
-*.fontsettings
-*.physicsMaterial2D
-*.giparams
-*.playable
-*.renderTexture
-*.mask
-*.overrideController
-*.anim
